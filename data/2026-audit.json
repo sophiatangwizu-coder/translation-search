@@ -1,0 +1,265 @@
+{
+  "files": [
+    {
+      "name": "2026高三一模.pdf",
+      "questions": 64,
+      "districts": 16,
+      "pages": 8
+    },
+    {
+      "name": "2026高三二模.docx",
+      "questions": 64,
+      "districts": 16,
+      "paragraphs": 380
+    }
+  ],
+  "total": 128,
+  "ready": 121,
+  "review": 7,
+  "explanationsImported": false,
+  "classification": "考点及主题逐条补充；参考配套说明，但不保存其正文。",
+  "issues": [
+    {
+      "id": "q-2d280d1fb41e1f",
+      "exam": "一模",
+      "district": "宝山区",
+      "number": "54",
+      "notes": [
+        "原题有“迫不及待地的”重复字；参考答案用 couldn’t help 表达“情不自禁”，与“迫不及待”存在差异，保留原文待核对。"
+      ],
+      "status": "review"
+    },
+    {
+      "id": "q-96cc8b3c4fe02f",
+      "exam": "一模",
+      "district": "崇明区",
+      "number": "54",
+      "notes": [
+        "原题“稳步堤升”疑为“稳步提升”，保留原文待核对。"
+      ],
+      "status": "review"
+    },
+    {
+      "id": "q-a00ab542427be3",
+      "exam": "一模",
+      "district": "黄浦区",
+      "number": "54",
+      "notes": [
+        "原文件第四题也标为 54，原题号照录；题目与答案对应明确。"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "q-1f472f4c097f6a",
+      "exam": "一模",
+      "district": "嘉定区",
+      "number": "55",
+      "notes": [
+        "原参考答案将 correct 拼作 corect，保留原文待核对。"
+      ],
+      "status": "review"
+    },
+    {
+      "id": "q-8e3a9213d049ae",
+      "exam": "一模",
+      "district": "长宁区",
+      "number": "53",
+      "notes": [
+        "原参考答案将“小奶猫”译成 cheesecake（芝士蛋糕），保留原文待核对。"
+      ],
+      "status": "review"
+    },
+    {
+      "id": "q-057967b9345f01",
+      "exam": "一模",
+      "district": "金山区",
+      "number": "55",
+      "notes": [
+        "原题提示词为 research，但提供的参考答案未使用该词，保留原文待核对。"
+      ],
+      "status": "review"
+    },
+    {
+      "id": "q-c7157049ebe9d8",
+      "exam": "一模",
+      "district": "奉贤区",
+      "number": "54",
+      "notes": [
+        "原参考答案以 invested 开头，缺少“这位工程师”对应的主语，保留原文待核对。"
+      ],
+      "status": "review"
+    },
+    {
+      "id": "q-0b3f7287fb97a5",
+      "exam": "二模",
+      "district": "徐汇区",
+      "number": "53",
+      "notes": [
+        "原题提示词为 such，但参考答案及配套说明使用 so … that，保留原文待核对。"
+      ],
+      "status": "review"
+    }
+  ],
+  "coverage": [
+    {
+      "exam": "一模",
+      "district": "虹口区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "宝山区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "崇明区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "黄浦区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "嘉定区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "静安区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "闵行区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "浦东区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "普陀区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "青浦区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "松江区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "徐汇区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "杨浦区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "长宁区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "金山区",
+      "count": 4
+    },
+    {
+      "exam": "一模",
+      "district": "奉贤区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "闵行区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "金山区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "松江区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "浦东区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "奉贤区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "崇明区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "长宁区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "静安区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "宝山区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "普陀区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "杨浦区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "嘉定区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "黄浦区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "虹口区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "徐汇区",
+      "count": 4
+    },
+    {
+      "exam": "二模",
+      "district": "青浦区",
+      "count": 4
+    }
+  ]
+}

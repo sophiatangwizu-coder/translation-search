@@ -1,0 +1,4108 @@
+[
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "too … to"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-2d3e7ca2b072de",
+    "year": 2026,
+    "district": "虹口区",
+    "exam": "一模",
+    "question": "每逢刮风下雨，乡间的小路总是泥泞难行。",
+    "hint": "too",
+    "answer": "Whenever it’s windy and rainy, the country paths are too muddy to walk on.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 1,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "the more … the more",
+      "be likely to"
+    ],
+    "patterns": [
+      "比较结构"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-4ab1d9e3257d3e",
+    "year": 2026,
+    "district": "虹口区",
+    "exam": "一模",
+    "question": "越是让人感到愉悦、获得成就感的事情，我们就越容易反复去做。",
+    "hint": "The more.…, the more",
+    "answer": "The more enjoyable and rewarding something feels, the more likely we are to do it repeatedly.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 1,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "regardless",
+      "regardless of"
+    ],
+    "patterns": [
+      "with 复合结构"
+    ],
+    "themes": [
+      "健康生活",
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-3c12e11376f282",
+    "year": 2026,
+    "district": "虹口区",
+    "exam": "一模",
+    "question": "随着乒乓球友谊赛的圆满落幕，我们再次体会到：无论输赢，每个人都是胜利者。",
+    "hint": "regardless",
+    "answer": "With the table tennis friendship competition successfully concluded , we once again realize that, regardless of winning or losing, everyone is a winner.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 1,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "barrier",
+      "break barriers"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "科技创新",
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-f09896b89b7142",
+    "year": 2026,
+    "district": "虹口区",
+    "exam": "一模",
+    "question": "年轻人借助多媒体和直播，打破了销售的时空限制，让农产品走出乡村，进入更大的市场。",
+    "hint": "barrier",
+    "answer": "By using multimedia and live streaming, young people have broken the barriers of time and space in sales, allowing agricultural products to move from the countryside into larger markets.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 1,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "with determination"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-3ba0aa5b7833f9",
+    "year": 2026,
+    "district": "宝山区",
+    "exam": "一模",
+    "question": "无论面对什么挑战，我们团队都有决心克服。",
+    "hint": "whatever",
+    "answer": "Whatever challenges we face, our team will overcome them with determination.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 1,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "amazing"
+    ],
+    "patterns": [
+      "形式主语",
+      "名词性从句"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-7a01fc3ef904a9",
+    "year": 2026,
+    "district": "宝山区",
+    "exam": "一模",
+    "question": "真的太神奇了，人工智能使许多不可能都变成了现实。",
+    "hint": "amazing",
+    "answer": "It is truly amazing that artificial intelligence has turned many impossibilities into realities.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 1,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "on",
+      "on doing",
+      "can’t help doing"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [
+      "原题有“迫不及待地的”重复字；参考答案用 couldn’t help 表达“情不自禁”，与“迫不及待”存在差异，保留原文待核对。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "q-2d280d1fb41e1f",
+    "year": 2026,
+    "district": "宝山区",
+    "exam": "一模",
+    "question": "一吃完晚饭，她就迫不及待地的邀请我们去她家附近那条美丽的湖边散步。",
+    "hint": "on",
+    "answer": "On finishing the dinner, she couldn’t help inviting us to take a walk along the beautiful lake near her home.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 1,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "but",
+      "not only … but also",
+      "self-evaluation"
+    ],
+    "patterns": [
+      "名词性从句",
+      "并列结构"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-6043d0e9178c2b",
+    "year": 2026,
+    "district": "宝山区",
+    "exam": "一模",
+    "question": "新课程告诉我们：学习过程中及时有效的自我评价不仅能够保证学习的速度和质量，更能保证学习方向的正确性。",
+    "hint": "but",
+    "answer": "The new course tells us that timely and effective self-evaluation during the learning process can not only ensure the speed and quality of learning, but guarantee the correctness of the learning direction.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 1,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "relieve",
+      "not only … but also",
+      "relieve stress",
+      "build up"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "并列结构"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-d4bab570b1c5e2",
+    "year": 2026,
+    "district": "崇明区",
+    "exam": "一模",
+    "question": "坚持每天锻炼不仅能增强体质，还能缓解压力。",
+    "hint": "relieve",
+    "answer": "Keeping exercising every day not only builds up one’s physical strength but also relieves stress.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 2,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "every time",
+      "can’t help doing"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-8f93ab2cb7d9e3",
+    "year": 2026,
+    "district": "崇明区",
+    "exam": "一模",
+    "question": "每每回想起小时候和外婆度过的快乐时光，他都情不自禁地感到温暖。",
+    "hint": "Every time",
+    "answer": "Every time he recalls the happy days spent with his grandmother in his childhood, he can’t help feeling warm.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 2,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "health awareness"
+    ],
+    "patterns": [
+      "定语从句",
+      "被动语态"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [
+      "原题“稳步堤升”疑为“稳步提升”，保留原文待核对。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "q-96cc8b3c4fe02f",
+    "year": 2026,
+    "district": "崇明区",
+    "exam": "一模",
+    "question": "近年来，该地区牛奶消耗量稳步堤升，足见民众的健康意识已然深入人心。",
+    "hint": "which",
+    "answer": "In recent years, milk consumption in this region has been rising steadily, which clearly indicates that people’s health awareness has been deeply rooted.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 2,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "integrate",
+      "stand out",
+      "integrate … into"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "经济消费",
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-f59d0d33803704",
+    "year": 2026,
+    "district": "崇明区",
+    "exam": "一模",
+    "question": "为使这款产品在竞争激烈的市场中脱颖而出，公司负责人建议把传统文化融入到产品的设计理念中。",
+    "hint": "integrate",
+    "answer": "To make this product stand out in the fiercely competitive market, the company’s leader suggested integrating traditional culture into the design concept of the product.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 2,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "apply",
+      "apply to"
+    ],
+    "patterns": [],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-676a7a58cdc04d",
+    "year": 2026,
+    "district": "黄浦区",
+    "exam": "一模",
+    "question": "新政策适用于公司的所有部门。",
+    "hint": "apply",
+    "answer": "The new policy applies to all departments of the company.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 2,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "way",
+      "be similar to"
+    ],
+    "patterns": [
+      "比较结构"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-5211f673ccb38f",
+    "year": 2026,
+    "district": "黄浦区",
+    "exam": "一模",
+    "question": "这个在线课程的教学方式与线下课程非常相似。",
+    "hint": "way",
+    "answer": "The teaching way of this online course is very similar to that of the offline course.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 2,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "abroad",
+      "long for",
+      "not … until"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "状语从句",
+      "名词性从句"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-b362630fcc4774",
+    "year": 2026,
+    "district": "黄浦区",
+    "exam": "一模",
+    "question": "旅居海外多年，归来时才明白，原来我心心念念的地方一直在这里。",
+    "hint": "abroad",
+    "answer": "Having lived abroad for many years, I didn’t realize until I returned that the place I had been longing for was right here all along.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 2,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "cost-performance ratio"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [
+      "原文件第四题也标为 54，原题号照录；题目与答案对应明确。"
+    ],
+    "status": "ready",
+    "verified": false,
+    "id": "q-a00ab542427be3",
+    "year": 2026,
+    "district": "黄浦区",
+    "exam": "一模",
+    "question": "这家饭店确实很棒，但对我来说太贵了，所以最后我选择了一家名不见经传但性价比更高的饭店。",
+    "hint": "as",
+    "answer": "The restaurant was indeed great, but as it was too expensive for me, I finally chose a lesser-known one with a better cost-performance ratio.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 2,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "emerge"
+    ],
+    "patterns": [],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-d19e2ae9c712e2",
+    "year": 2026,
+    "district": "嘉定区",
+    "exam": "一模",
+    "question": "一个个小型美术馆在上海的社区中悄然兴起了。",
+    "hint": "emerge",
+    "answer": "Small art galleries have quietly emerged in communities across Shanghai.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 3,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "may",
+      "increase by"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-2cc9efc6714997",
+    "year": 2026,
+    "district": "嘉定区",
+    "exam": "一模",
+    "question": "每天多喝一瓶含糖饮料，心脏病的风险可能增加三成。",
+    "hint": "may",
+    "answer": "Drinking one more sugary drink every day may increase the risk of heart disease by 30%.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 3,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "instead of",
+      "remind … of"
+    ],
+    "patterns": [
+      "定语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-6d2ad7ef83a3ce",
+    "year": 2026,
+    "district": "嘉定区",
+    "exam": "一模",
+    "question": "汉字并非简单的符号，而是图像的组合，能让读者联想到自然万物。",
+    "hint": "Instead of",
+    "answer": "Instead of being simple symbols, Chinese characters are combinations of images, which can remind readers of all things in nature.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 3,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "so that",
+      "absorb oneself in"
+    ],
+    "patterns": [
+      "定语从句",
+      "名词性从句",
+      "状语从句"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [
+      "原参考答案将 correct 拼作 corect，保留原文待核对。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "q-1f472f4c097f6a",
+    "year": 2026,
+    "district": "嘉定区",
+    "exam": "一模",
+    "question": "这座主题乐园中的 24 口钟均未显示正确时间，让游客感到时间停滞，因而沉醉于游览体验中。",
+    "hint": "so that",
+    "answer": "None of the 24 clocks in the theme park displays corect time, which enables tourists to feel that time is standing still so that they fully absorb themselves in the experience.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 3,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "vase",
+      "祈使句 + or"
+    ],
+    "patterns": [
+      "祈使句",
+      "并列结构"
+    ],
+    "themes": [
+      "灾害与安全"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-5c0c7bedc54548",
+    "year": 2026,
+    "district": "静安区",
+    "exam": "一模",
+    "question": "别把那个花瓶放在书架最上面，它可能会掉下来。",
+    "hint": "vase",
+    "answer": "Don’t put that vase on the top of the bookshelf, or it may fall down.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 3,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "than",
+      "nothing … more … than"
+    ],
+    "patterns": [
+      "比较结构",
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-d60d58719db0c6",
+    "year": 2026,
+    "district": "静安区",
+    "exam": "一模",
+    "question": "冬日清晨，没什么比喝上一杯热气腾腾的豆浆更美妙的了。",
+    "hint": "than",
+    "answer": "On a winter morning, nothing is more wonderful than having a cup of steaming hot soy milk.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 3,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "favor",
+      "gain favor",
+      "pour in"
+    ],
+    "patterns": [
+      "并列结构"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-0a38f84c182bd9",
+    "year": 2026,
+    "district": "静安区",
+    "exam": "一模",
+    "question": "这位青年画家凭借细腻的笔触，迅速获得业界青睐，订单纷至沓来。",
+    "hint": "favor",
+    "answer": "With delicate brushstrokes, this young painter quickly gained favor in the industry, and orders poured in.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 3,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "a witness to"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-8dcbe7fb72faea",
+    "year": 2026,
+    "district": "静安区",
+    "exam": "一模",
+    "question": "虽然这座矗立于市中心的纪念碑形制朴素，但它作为历史见证，始终塑造着我们的民族精神，激励着后人。",
+    "hint": "Though",
+    "answer": "Though the monument standing in the city center is simple in shape, as a witness to history, it has always shaped our national spirit and inspired later generations.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 3,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "stick",
+      "stick to"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-f3b4eaa7c57643",
+    "year": 2026,
+    "district": "闵行区",
+    "exam": "一模",
+    "question": "我的曾祖母依然保留着使用手帕的习惯。",
+    "hint": "stick",
+    "answer": "My great-grandmother still sticks to the habit of using a handkerchief.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 4,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "the more … the more"
+    ],
+    "patterns": [
+      "比较结构"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-7190615b9dc3b5",
+    "year": 2026,
+    "district": "闵行区",
+    "exam": "一模",
+    "question": "你收集的资料越充分，报告就越有说服力。",
+    "hint": "The more..., the more...",
+    "answer": "The more thoroughly you collect information, the more persuasive your report will be.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 4,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "thanks to",
+      "job offer"
+    ],
+    "patterns": [],
+    "themes": [
+      "职业与梦想"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-b3a76f0c6574ff",
+    "year": 2026,
+    "district": "闵行区",
+    "exam": "一模",
+    "question": "凭借过硬的专业素养面试后，多家研发机构向这位毕业生伸出了橄榄枝。",
+    "hint": "Thanks to",
+    "answer": "Thanks to his strong professional competence, this graduate received job offers from several research and development institutions after the interview./Thanks to his excellent professional skills, multiple research and development institutions offered positions to this graduate after the interview./Thanks to his solid professional expertise, several research and development institutions extended offers to this graduate following the interview.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 4,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "fuel",
+      "be fueled by",
+      "transform into"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "环境保护",
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-cae3842c2538cf",
+    "year": 2026,
+    "district": "闵行区",
+    "exam": "一模",
+    "question": "受深厚的农耕文化与生态旅游资源驱动。这座偏远村庄如今已蜕变为宜居宜游的美丽乡村。",
+    "hint": "fuel",
+    "answer": "Fueled by its rich farming culture and eco-tourism resources, this remote village has now transformed into a livable and tourist-friendly beautiful countryside.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 4,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "against",
+      "against the setting sun"
+    ],
+    "patterns": [
+      "感叹句"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-1f0cac4f1d1d8c",
+    "year": 2026,
+    "district": "浦东区",
+    "exam": "一模",
+    "question": "这座跨海大桥在落日映衬下多么壮丽啊!",
+    "hint": "against",
+    "answer": "How magnificent this cross-sea bridge is against the setting sun!",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 4,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "spare",
+      "spare time",
+      "祈使句 + and"
+    ],
+    "patterns": [
+      "祈使句",
+      "并列结构"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-23e0cb086a7795",
+    "year": 2026,
+    "district": "浦东区",
+    "exam": "一模",
+    "question": "每天抽几分钟跳绳，就能提升心肺功能。",
+    "hint": "spare",
+    "answer": "Spare a few minutes every day for skipping rope, and you will be able to improve your cardiopulmonary function.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 4,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "appeal",
+      "lie in",
+      "from generation to generation"
+    ],
+    "patterns": [],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-e4786c9abcdc79",
+    "year": 2026,
+    "district": "浦东区",
+    "exam": "一模",
+    "question": "木雕技艺经久不衰，全靠匠人们精益求精、代代相传。",
+    "hint": "appeal",
+    "answer": "The enduring appeal of woodcarving craftsmanship lies in the craftsmen’s pursuit of excellence and its inheritance from generation to generation.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 4,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "take turns doing"
+    ],
+    "patterns": [
+      "定语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-165c899ed594f4",
+    "year": 2026,
+    "district": "浦东区",
+    "exam": "一模",
+    "question": "每周三下午，各班轮流打理小花园，从松土到浇水，同学们在挥洒汗水中感受劳作的乐趣和协作的力量。",
+    "hint": "where",
+    "answer": "Every Wednesday afternoon, each class takes turns tending the small garden, where students sweat from loosening the soil to watering plants, experiencing the joy of labor and the power of cooperation.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 4,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "against",
+      "not only … but also",
+      "against the law"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "并列结构"
+    ],
+    "themes": [
+      "灾害与安全"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-481fe36020481c",
+    "year": 2026,
+    "district": "普陀区",
+    "exam": "一模",
+    "question": "超速不仅对于你的乘客而言是非常危险的，而且也是违反法律的。",
+    "hint": "against",
+    "answer": "Speeding is not only very dangerous for your passengers, but also against the law.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 5,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "communicate",
+      "communicate … to",
+      "endangered species"
+    ],
+    "patterns": [],
+    "themes": [
+      "环境保护"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-a1830d650e3a1e",
+    "year": 2026,
+    "district": "普陀区",
+    "exam": "一模",
+    "question": "通过这部纪录片，导演成功地向观众传递了保护濒危物种的重要性。",
+    "hint": "communicate",
+    "answer": "Through this documentary, the director successfully communicates the importance of protecting endangered species to the audience.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 5,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "every time",
+      "turn to … for help"
+    ],
+    "patterns": [
+      "状语从句",
+      "定语从句"
+    ],
+    "themes": [
+      "人际沟通",
+      "职业与梦想"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-a606c222cab9db",
+    "year": 2026,
+    "district": "普陀区",
+    "exam": "一模",
+    "question": "这位软件工程师每每遇到问题时都会向团队求助，这足以说明团队协作的核心价值。",
+    "hint": "Every time ...",
+    "answer": "Every time the software engineer encounters a problem, he turns to his team for help, which sufficiently demonstrates the core value of teamwork.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 5,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "seaweed",
+      "insist that"
+    ],
+    "patterns": [
+      "名词性从句",
+      "状语从句"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-ea726c4b903304",
+    "year": 2026,
+    "district": "普陀区",
+    "exam": "一模",
+    "question": "这位餐厅经理坚持认为，只有当公众真正了解海草并愿意接受它作为食物来源时，规模化生产才有意义。",
+    "hint": "seaweed",
+    "answer": "The restaurant manager insists that large-scale production of seaweed is meaningful only when the public truly understands and accepts it as a food source.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 5,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "arise"
+    ],
+    "patterns": [
+      "状语从句",
+      "祈使句"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-e7d354e8044743",
+    "year": 2026,
+    "district": "青浦区",
+    "exam": "一模",
+    "question": "初学做饭经常会出现这种问题，再试一次就好！",
+    "hint": "arise",
+    "answer": "When you are new to cooking this kind of problem often arises. Just try again!",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 5,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "by",
+      "drop by",
+      "cost-effective"
+    ],
+    "patterns": [
+      "比较结构",
+      "形式主语"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-3b09b99465e5dc",
+    "year": 2026,
+    "district": "青浦区",
+    "exam": "一模",
+    "question": "这款衬衫的价格比上周降了 100 元，现在买性价比特别高。",
+    "hint": "by",
+    "answer": "The price of this shirt has dropped by 100 yuan compared with last week, so it is now extremely cost-effective to buy one.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 5,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "after",
+      "require"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "名词性从句"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-f1401a47d88b96",
+    "year": 2026,
+    "district": "青浦区",
+    "exam": "一模",
+    "question": "参与古籍修复工作坊后，我明白了看似简单的工序，需要耐心与技巧的双重打磨。",
+    "hint": "after",
+    "answer": "After participating in the ancient book restoration workshop I realized that the seemingly simple procedures require the double polishing of patience and skills.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 5,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "learn",
+      "have an influence on",
+      "learn from"
+    ],
+    "patterns": [
+      "定语从句",
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-9cab21c4719d63",
+    "year": 2026,
+    "district": "青浦区",
+    "exam": "一模",
+    "question": "我们必须始终铭记那些对当下社会仍产生强大影响力的重大历史事件，以史为鉴，才能为下一代创造更美好的未来。",
+    "hint": "learn",
+    "answer": "We must always remember those major historical events which still have a strong influence on the present society to learn from history so that we can create a better future for the next generation.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 5,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "hope",
+      "hope that"
+    ],
+    "patterns": [
+      "名词性从句"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-e157d085515273",
+    "year": 2026,
+    "district": "松江区",
+    "exam": "一模",
+    "question": "女儿希望妈妈能留一头齐腰长发。",
+    "hint": "hope",
+    "answer": "The daughter hopes her mother can keep waist-length hair.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 6,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "as night falls"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-d51ce55aff6048",
+    "year": 2026,
+    "district": "松江区",
+    "exam": "一模",
+    "question": "夜幕降临，三五成群的居民来到公园锻炼身体。",
+    "hint": "As",
+    "answer": "As night falls, residents come to the park in small groups to exercise.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 6,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "available",
+      "be available to",
+      "for free"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "社会服务"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-2318d1800c61eb",
+    "year": 2026,
+    "district": "松江区",
+    "exam": "一模",
+    "question": "工会每个月推出惠民活动，大家只需网上预约，就可免费体验。",
+    "hint": "available",
+    "answer": "The labor union launches benefit-the-people activities every month, which are available to everyone for free just with an online reservation.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 6,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "participate",
+      "participate in"
+    ],
+    "patterns": [
+      "并列结构"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-cc56b76035ec86",
+    "year": 2026,
+    "district": "松江区",
+    "exam": "一模",
+    "question": "在学校的农耕课程中，学生们全程参与田间劳作，体会到了“粒粒皆辛苦”的含义。",
+    "hint": "participate",
+    "answer": "In the school’s farming course, students participate in field work throughout the process and realize the meaning of “every grain comes from hard work.”/ In the school’s farming course, students participated in field work throughout the process and realized the meaning of “every grain comes from hard work.”",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 6,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "encourage",
+      "encourage … to do",
+      "participate in"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-27a02acfa40476",
+    "year": 2026,
+    "district": "徐汇区",
+    "exam": "一模",
+    "question": "应该鼓励孩子们多参与户外活动。",
+    "hint": "encourage",
+    "answer": "We should encourage children to participate in more outdoor activities.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 6,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "with the development of"
+    ],
+    "patterns": [],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-42984d1c33d161",
+    "year": 2026,
+    "district": "徐汇区",
+    "exam": "一模",
+    "question": "随着人工智能的发展，许多传统行业正面临着巨大的挑战。",
+    "hint": "With…",
+    "answer": "With the development of artificial intelligence, many traditional industries are facing significant challenges.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 6,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "adjust to",
+      "adjust … to",
+      "adapt to"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-89415a4ea2e01b",
+    "year": 2026,
+    "district": "徐汇区",
+    "exam": "一模",
+    "question": "随着新学期的开始，学生们需要快速调整心态，以适应更加紧张和繁重的学习任务。",
+    "hint": "adjust to",
+    "answer": "With the start of the new semester, students need to quickly adjust their mindset to adapt to more intense and demanding academic tasks.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 6,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "exceed",
+      "exceed expectations"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "职业与梦想"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-930cd7c5ae1451",
+    "year": 2026,
+    "district": "徐汇区",
+    "exam": "一模",
+    "question": "这位年轻企业家凭借其独特的视野和卓越的领导力所取得的惊人成就，远远超出了包括他家人在内的所有人的预期。",
+    "hint": "exceed",
+    "answer": "The remarkable achievements made by this young entrepreneur, thanks to his unique vision and exceptional leadership, far exceeded everyone’s expectations, including his family.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 6,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "consultation",
+      "in consultation with",
+      "consultation with"
+    ],
+    "patterns": [
+      "被动语态"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-01957737325a02",
+    "year": 2026,
+    "district": "杨浦区",
+    "exam": "一模",
+    "question": "该校的作业政策是在与全体教师商议后修订的。",
+    "hint": "consultation",
+    "answer": "The school’s homework policy was revised after consultation with all teachers.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 7,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "祈使句 + or"
+    ],
+    "patterns": [
+      "祈使句",
+      "并列结构"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-9cf08f32905334",
+    "year": 2026,
+    "district": "杨浦区",
+    "exam": "一模",
+    "question": "若漠视生活中的小确幸，你的世界将会黯然失色，枯燥乏味。",
+    "hint": "or",
+    "answer": "Don’t ignore the small pleasures in life, or your world will become dull and colorless.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 7,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "give rise",
+      "cast a shadow over",
+      "give rise to"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "并列结构"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-962aae539fd05f",
+    "year": 2026,
+    "district": "杨浦区",
+    "exam": "一模",
+    "question": "作家饱受战争摧残的童年充斥着不安，给他的作品投下阴影，孕育出黑暗的主题。",
+    "hint": "give rise",
+    "answer": "The writer’s war-torn childhood, filled with insecurity, cast a shadow over his works and gave rise to dark themes.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 7,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "it is wise to"
+    ],
+    "patterns": [
+      "形式主语",
+      "定语从句"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-6bf25f0faaa69a",
+    "year": 2026,
+    "district": "杨浦区",
+    "exam": "一模",
+    "question": "睡姿关乎心脑健康，因此选择一个你感觉最舒适、夜间醒来频率最低的睡姿是明智之举。",
+    "hint": "where",
+    "answer": "Sleeping posture matters to heart and brain health, so it is wise to choose a position where you feel most comfortable and wake up the least often at night.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 7,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "bear",
+      "keep … in mind",
+      "bear … in mind"
+    ],
+    "patterns": [
+      "名词性从句"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-30e7e66280f85d",
+    "year": 2026,
+    "district": "长宁区",
+    "exam": "一模",
+    "question": "我们都要谨记，身心健康重于一切。",
+    "hint": "bear",
+    "answer": "We should all bear in mind that physical and mental health outweighs everything else.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 7,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "desire",
+      "resist the desire to"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "自然与动物"
+    ],
+    "notes": [
+      "原参考答案将“小奶猫”译成 cheesecake（芝士蛋糕），保留原文待核对。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "q-8e3a9213d049ae",
+    "year": 2026,
+    "district": "长宁区",
+    "exam": "一模",
+    "question": "谁能抑制住想要抱一抱这只圆滚滚、惹人喜爱的小奶猫的欲望呢?",
+    "hint": "desire",
+    "answer": "Who can resist the desire to hug this chubby and adorable little cheesecake?",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 7,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "devote … to"
+    ],
+    "patterns": [
+      "形式主语",
+      "名词性从句"
+    ],
+    "themes": [
+      "文化艺术",
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-c85ac63a611652",
+    "year": 2026,
+    "district": "长宁区",
+    "exam": "一模",
+    "question": "这位教授为培养我国自己的音乐人才呕心沥血四十余年，实在令人心生敬意。",
+    "hint": "It",
+    "answer": "It is truly admirable that the professor has devoted over forty years of painstaking effort to cultivating our country’s own musical talents.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 7,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "wander",
+      "wander around"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-4ea93ac533b679",
+    "year": 2026,
+    "district": "长宁区",
+    "exam": "一模",
+    "question": "初冬的午后，我漫步在这所知名学府的校园，踏着铺满落叶的草坪，享受着书香带来的内心安宁。",
+    "hint": "wander",
+    "answer": "On an early winter afternoon, I wandered around the campus of this prestigious university, stepping on the lawn covered with fallen leaves, enjoying the inner peace brought by the scholarly atmosphere.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 7,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "whenever"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-9e19a2263e3292",
+    "year": 2026,
+    "district": "金山区",
+    "exam": "一模",
+    "question": "每当他高兴的时候，就会手舞足蹈。",
+    "hint": "whenever",
+    "answer": "Whenever he is happy, he would dance with joy.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 8,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "light",
+      "hold up",
+      "shed light on"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-763bdb8645ff1c",
+    "year": 2026,
+    "district": "金山区",
+    "exam": "一模",
+    "question": "如果这些数据站得住脚，它将帮助我们认清正在调查的问题。",
+    "hint": "light",
+    "answer": "If these data hold up, they will help shed light on the issue under investigation.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 8,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "not only … but also",
+      "contribute to"
+    ],
+    "patterns": [
+      "并列结构",
+      "非谓语动词"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-9397d3f3734767",
+    "year": 2026,
+    "district": "金山区",
+    "exam": "一模",
+    "question": "劳动实践不仅能让我们体会劳动价值，还能培养工匠精神，从而助力个人长远发展。",
+    "hint": "not only",
+    "answer": "Labor practice not only allows us to experience the value of work, but also cultivates the spirit of craftsmanship, thus contributing to personal long-term development.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 8,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "research",
+      "be accustomed to",
+      "serve as"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [
+      "原题提示词为 research，但提供的参考答案未使用该词，保留原文待核对。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "q-057967b9345f01",
+    "year": 2026,
+    "district": "金山区",
+    "exam": "一模",
+    "question": "人们习惯了通过社交媒体上的视频了解目的地，这类视频能为自主出行提供实用参考， 让他们更有信心地奔赴陌生之地。",
+    "hint": "research",
+    "answer": "People have become accustomed to learning about destinations through videos on social media. Such videos can serve as practical references for independent travel, enabling them to head to unfamiliar places with more confidence.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 8,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "pack",
+      "pack … into"
+    ],
+    "patterns": [],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-db6b7915f66da6",
+    "year": 2026,
+    "district": "奉贤区",
+    "exam": "一模",
+    "question": "校门口，妈妈往她包里塞了一副手套和一条羊毛围巾。",
+    "hint": "pack",
+    "answer": "Her mother packed a pair of gloves and a wool scarf into her bag at the school gate.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 8,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "expose",
+      "be based on",
+      "expose … to"
+    ],
+    "patterns": [
+      "定语从句",
+      "被动语态"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-95a6cde77a06a6",
+    "year": 2026,
+    "district": "奉贤区",
+    "exam": "一模",
+    "question": "这款基于中国古典小说的游戏让许多外国玩家感受到了东方魅力。",
+    "hint": "expose",
+    "answer": "This game (which/that is) based on a classic Chinese novel exposes many foreign players to the charm of the East.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 8,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "invest",
+      "invest … in",
+      "one after another"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "定语从句"
+    ],
+    "themes": [
+      "科技创新",
+      "职业与梦想"
+    ],
+    "notes": [
+      "原参考答案以 invested 开头，缺少“这位工程师”对应的主语，保留原文待核对。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "q-c7157049ebe9d8",
+    "year": 2026,
+    "district": "奉贤区",
+    "exam": "一模",
+    "question": "这位工程师将心血倾注于芯片研发，不断攻坚克难，赢得了“时代楷模”的美名。",
+    "hint": "invest",
+    "answer": "invested efforts in/into the development of chips/developing chips, and overcame one challenge/difficulty/obstacle after another, earning/which earned him the title of “Model of the Era/Age/Time”.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 8,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "so … that",
+      "manage to"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-286b1b96dade09",
+    "year": 2026,
+    "district": "奉贤区",
+    "exam": "一模",
+    "question": "在失重的环境中，吃饭喝水皆非易事，但中国人对吃的挚爱让我们的宇航员在空间站里成功吃上了烧烤盛宴。",
+    "hint": "so … that …",
+    "answer": "In the weightless/zero-gravity environment, eating and drinking are no simple tasks, but the Chinese people’s love for food is so strong that our astronauts have managed to enjoy (a) barbecue (feast) in the space station. 或 ......., the Chinese people’s love for food is so strong that it has enabled our astronauts to enjoy a barbecue feast in the space station.",
+    "sourceId": "seed-2026-first",
+    "sourceName": "2026高三一模.pdf",
+    "page": 8,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "sell",
+      "sell well"
+    ],
+    "patterns": [],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-02672e08d421d2",
+    "year": 2026,
+    "district": "闵行区",
+    "exam": "二模",
+    "question": "这本新出版的漫画书是否畅销？",
+    "hint": "sell",
+    "answer": "Does this newly-published comic book sell well?",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 7,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "point",
+      "there is no point",
+      "take action"
+    ],
+    "patterns": [
+      "There be 句型",
+      "非谓语动词"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-eb9390012f0b4f",
+    "year": 2026,
+    "district": "闵行区",
+    "exam": "二模",
+    "question": "不停抱怨却不采取行动是没有意义的。",
+    "hint": "point",
+    "answer": "There is no point (in) keeping complaining without taking any action.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 12,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "memory",
+      "in memory of",
+      "on the occasion of"
+    ],
+    "patterns": [
+      "并列结构"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-b582c4d8effb5d",
+    "year": 2026,
+    "district": "闵行区",
+    "exam": "二模",
+    "question": "端午节之际，人们赛龙舟、包粽子、放纸鸢，以此纪念爱国诗人屈原。",
+    "hint": "memory",
+    "answer": "On the occasion of the Dragon Boat Festival, people hold dragon boat races, make zongzi and fly kites in memory of the patriotic poet Qu Yuan.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 17,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "lack of",
+      "backup plan"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "名词性从句"
+    ],
+    "themes": [
+      "职业与梦想",
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-fd22a0e240ef14",
+    "year": 2026,
+    "district": "闵行区",
+    "exam": "二模",
+    "question": "这个初来乍到的软件开发师虽然经验尚浅，却随身携带了备用方案，确保项目顺利进行。",
+    "hint": "lack of",
+    "answer": "Despite his lack of experience, the newly arrived software developer carried a backup plan to ensure the project went smoothly.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 22,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "tap",
+      "tap into",
+      "stick to"
+    ],
+    "patterns": [
+      "祈使句",
+      "并列结构"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-08deadd7b262c4",
+    "year": 2026,
+    "district": "金山区",
+    "exam": "二模",
+    "question": "发掘内在动力，你就能坚持自己的目标。",
+    "hint": "tap",
+    "answer": "Tap into your inner motivation, and you will stick to your own goals.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 30,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "pose",
+      "pose a threat to"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-22934575cc478f",
+    "year": 2026,
+    "district": "金山区",
+    "exam": "二模",
+    "question": "如果不良习惯持续存在，就可能对我们的健康构成威胁。",
+    "hint": "pose",
+    "answer": "If bad habits persist, they may pose a threat to our health.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 36,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "boom",
+      "guard against"
+    ],
+    "patterns": [
+      "形式主语",
+      "非谓语动词"
+    ],
+    "themes": [
+      "科技创新",
+      "灾害与安全"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-c6105f210205cd",
+    "year": 2026,
+    "district": "金山区",
+    "exam": "二模",
+    "question": "当下人工智能蓬勃发展，因此理性运用技术、防范潜在风险至关重要。",
+    "hint": "boom",
+    "answer": "At present, artificial intelligence is booming, so it is vital to use technology rationally and guard against potential risks.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 42,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "ups and downs",
+      "from generation to generation"
+    ],
+    "patterns": [
+      "定语从句",
+      "并列结构"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-578a7715dce0d9",
+    "year": 2026,
+    "district": "金山区",
+    "exam": "二模",
+    "question": "这条古老的街巷历经数百年风雨沧桑，见证了城市的兴衰更迭，在这里，一代又一代普通人用平凡的坚守书写着温暖而动人的生活故事。",
+    "hint": "where",
+    "answer": "This ancient street has experienced hundreds of years of ups and downs and witnessed the rise and fall of the city, where ordinary people from generation to generation have written warm and touching life stories with ordinary perseverance.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 48,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "effect",
+      "have an effect on",
+      "such … as"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-386a74135e8811",
+    "year": 2026,
+    "district": "松江区",
+    "exam": "二模",
+    "question": "每天做点洗碗之类的家务活对培养耐心很管用。",
+    "hint": "effect",
+    "answer": "Doing such housework as washing (the) bowls every day has a good effect on developing patience.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 56,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "matter",
+      "what matters"
+    ],
+    "patterns": [
+      "状语从句",
+      "名词性从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "科技创新",
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-72386c02d7f0b4",
+    "year": 2026,
+    "district": "松江区",
+    "exam": "二模",
+    "question": "当初我们选这款氢能源汽车时，看中的就是它的续航里程。",
+    "hint": "matter",
+    "answer": "When we chose this (model of) hydrogen-powered car at that time, what mattered most was its range/how far it could go after being charged.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 61,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "remind … not to do"
+    ],
+    "patterns": [
+      "状语从句",
+      "被动语态",
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-6bcb4023d66513",
+    "year": 2026,
+    "district": "松江区",
+    "exam": "二模",
+    "question": "天气转凉时，他的胃会不舒服，奶奶经常提醒他把牛奶热一下再喝。",
+    "hint": "unless",
+    "answer": "As the weather gets cold(er), he has stomach discomfort, so the grandmother often reminds him not to drink the milk unless it is heated/warmed.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 66,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "upon publication",
+      "rush to"
+    ],
+    "patterns": [
+      "定语从句",
+      "被动语态"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-baa71156cf3ce6",
+    "year": 2026,
+    "district": "松江区",
+    "exam": "二模",
+    "question": "这部关于宋朝历史的小说一出版便备受推崇，连外国读者都争相购买，销售量远超同类作品。",
+    "hint": "whose",
+    "answer": "The historical novel about the Song Dynasty, whose sales went far beyond those in the same category/of the same kind, was highly favored upon its publication, and even foreign readers rushed to buy it.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 71,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "engage",
+      "engage oneself in",
+      "be busy doing"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "文化艺术",
+      "社会服务"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-ae1d9a2795c06f",
+    "year": 2026,
+    "district": "浦东区",
+    "exam": "二模",
+    "question": "元宵节当天，志愿者们忙着在社区准备节日庆祝活动。",
+    "hint": "engage",
+    "answer": "On the Lantern Festival, the volunteers were busy engaging themselves in preparing the festival celebrations in the community.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 79,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "the first time",
+      "deal with"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "城市与出行",
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-c9c5afaef973cf",
+    "year": 2026,
+    "district": "浦东区",
+    "exam": "二模",
+    "question": "第一次乘坐高铁远行，我学会了找站台，也学会了和陌生人打交道。",
+    "hint": "The first time",
+    "answer": "The first time I traveled long distance by high-speed rail, I learned how to find the platform and how to deal with strangers.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 84,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "aware",
+      "be aware that",
+      "only by"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "名词性从句",
+      "倒装句"
+    ],
+    "themes": [
+      "环境保护",
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-c4f6759893b7ef",
+    "year": 2026,
+    "district": "浦东区",
+    "exam": "二模",
+    "question": "乡村生态研学中，呼吸着清新的空气，听着鸟鸣声，我意识到放慢脚步，才能看见风景。",
+    "hint": "aware",
+    "answer": "During the rural ecological study tour, breathing the fresh air and listening to the birdsong, I became aware that only by slowing down could I see the scenery.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 89,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "locate",
+      "no wonder",
+      "be of high quality",
+      "be popular with"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "并列结构"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-aef179d1f44b22",
+    "year": 2026,
+    "district": "浦东区",
+    "exam": "二模",
+    "question": "这家位于大学内拐角处的咖啡店看似普普通通，实则咖啡豆品质上乘，难怪多年来深受师生青睐。",
+    "hint": "locate",
+    "answer": "The coffee shop, located at the corner inside the university, seems ordinary, but in fact its coffee beans are of high quality, so no wonder (that) it has been popular with teachers and students over the years.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 94,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "sign",
+      "write a blessing"
+    ],
+    "patterns": [
+      "并列结构"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-e026590e695a96",
+    "year": 2026,
+    "district": "奉贤区",
+    "exam": "二模",
+    "question": "亲爱的班长，你能在我的毕业相册上签名并写一句祝福吗？",
+    "hint": "sign",
+    "answer": "Dear monitor, could you please sign my graduation album and write a blessing for me?",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 102,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "turn out",
+      "it turns out that"
+    ],
+    "patterns": [
+      "名词性从句"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-cdc1569f31945a",
+    "year": 2026,
+    "district": "奉贤区",
+    "exam": "二模",
+    "question": "原来是她的宠物猫踩到了键盘，发了这条令人摸不着头脑的消息。",
+    "hint": "turn out",
+    "answer": "It turned out that her pet cat stepped on the keyboard and sent this puzzling message.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 107,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "alert",
+      "alert to",
+      "propose doing"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-2a0d50b7610509",
+    "year": 2026,
+    "district": "奉贤区",
+    "exam": "二模",
+    "question": "市长嗅到了这一绝佳的机遇，提议新建一条连接城乡的公路。",
+    "hint": "alert",
+    "answer": "The mayor, alert to this excellent opportunity, proposed building a new road connecting the city and the countryside.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 112,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "not only … but also"
+    ],
+    "patterns": [
+      "定语从句",
+      "并列结构"
+    ],
+    "themes": [
+      "科技创新",
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-03281dd911ac83",
+    "year": 2026,
+    "district": "奉贤区",
+    "exam": "二模",
+    "question": "这台机器人在台上闪转腾挪，上演了精彩的中国功夫，不仅赢得了连连掌声，也收获了大量订单。",
+    "hint": "which",
+    "answer": "This robot moved nimbly and flexibly on the stage and performed wonderful Chinese kung fu which not only won continuous applause but also gained a lot of orders.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 117,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "diagnose",
+      "be diagnosed with",
+      "with the help of"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-c9347e196f229a",
+    "year": 2026,
+    "district": "崇明区",
+    "exam": "二模",
+    "question": "尽管被诊断出患有抑郁，但在家人帮助下，他最终战胜了病魔。",
+    "hint": "diagnose",
+    "answer": "Although diagnosed with depression, he eventually overcame the illness with the help of his family.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 125,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "effect",
+      "take effect",
+      "to some extent"
+    ],
+    "patterns": [
+      "并列结构"
+    ],
+    "themes": [
+      "灾害与安全"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-0681205278dde4",
+    "year": 2026,
+    "district": "崇明区",
+    "exam": "二模",
+    "question": "这项法规将于下个月生效，在一定程度上会确保个人信息在网络上的安全。",
+    "hint": "effect",
+    "answer": "This regulation is to take effect next month, and will to some extent ensure the security of personal information online.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 130,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "defend one’s title",
+      "be inseparable from"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-afae8e1da39a03",
+    "year": 2026,
+    "district": "崇明区",
+    "exam": "二模",
+    "question": "这位世界冠军卫冕成功，这离不开她日常坚持不懈的训练和赛场上良好的心理素质。",
+    "hint": "which",
+    "answer": "The world champion successfully defended her title, which was inseparable from her persistent daily training and good psychological quality on the field.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 135,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "arouse",
+      "focus on",
+      "arouse a response"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "环境保护",
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-b2f352e525a945",
+    "year": 2026,
+    "district": "崇明区",
+    "exam": "二模",
+    "question": "这部聚焦生态保护的电视连续剧主题深刻、制作精湛，引起了强烈社会反响，成为今年的热门作品。",
+    "hint": "arouse",
+    "answer": "The TV series focusing on ecological protection, with its insightful theme and superb production, has aroused a strong social response and become a hit this year.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 140,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "practice",
+      "practice doing",
+      "play the violin"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "文化艺术",
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-0a8a864e4e0550",
+    "year": 2026,
+    "district": "长宁区",
+    "exam": "二模",
+    "question": "邻家小男孩每天练习拉小提琴，十分勤奋。",
+    "hint": "practice",
+    "answer": "The little boy next door practices playing the violin every day and is very diligent.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 148,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "better",
+      "it is better to … than to",
+      "in advance"
+    ],
+    "patterns": [
+      "形式主语",
+      "比较结构",
+      "非谓语动词"
+    ],
+    "themes": [
+      "职业与梦想"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-5afa0aaf6d2da4",
+    "year": 2026,
+    "district": "长宁区",
+    "exam": "二模",
+    "question": "与其不假思索就仓促执行，不如事先仔细做好任务规划。",
+    "hint": "better",
+    "answer": "It is better to carefully plan the task in advance than to rush into action without thinking.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 153,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "head",
+      "head north",
+      "leave … behind"
+    ],
+    "patterns": [
+      "定语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "自然与动物"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-2ec68bad4c2651",
+    "year": 2026,
+    "district": "长宁区",
+    "exam": "二模",
+    "question": "随着春天的到来，这些饱受困苦的鹿再次向北迁徙，将狼群与森林抛在身后。",
+    "hint": "head",
+    "answer": "With the arrival of spring, these deer that have suffered a lot head north again, leaving the wolves and the forest behind.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 158,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "together with",
+      "prevent … from"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "主谓一致"
+    ],
+    "themes": [
+      "环境保护"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-d911daf5013177",
+    "year": 2026,
+    "district": "长宁区",
+    "exam": "二模",
+    "question": "这些陆地上的冰连同海冰，将太阳辐射反射出地表，以此保护我们的星球，防止其出现过热的状况。",
+    "hint": "together with",
+    "answer": "The land ice, together with sea ice, reflects solar radiation away from the Earth’s surface, protecting our planet and preventing it from overheating.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 163,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "feel like",
+      "feel like doing"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-3103c5d9cfbfb1",
+    "year": 2026,
+    "district": "静安区",
+    "exam": "二模",
+    "question": "干了一整天的活儿，回到家我只想躺着不动。",
+    "hint": "feel like",
+    "answer": "After a full day’s work, I only felt like lying down without moving when I got home.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 171,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "release",
+      "undergo tests",
+      "without permission"
+    ],
+    "patterns": [
+      "被动语态",
+      "并列结构"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-56653c2e80a2a7",
+    "year": 2026,
+    "district": "静安区",
+    "exam": "二模",
+    "question": "所有新药必须接受严格检测，未经批准不得发布。",
+    "hint": "release",
+    "answer": "All new drugs must undergo strict tests and shall not be released without permission.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 176,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "occur",
+      "occur to"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-1f373f6903eb4a",
+    "year": 2026,
+    "district": "静安区",
+    "exam": "二模",
+    "question": "他打开那本布满灰尘的相册时，脑海中突然浮现出三十年前在家乡拍下这些照片的场景。",
+    "hint": "occur",
+    "answer": "When he opened the dusty photo album, the scene of taking these photos in his hometown thirty years ago suddenly occurred to him.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 181,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "be faced with"
+    ],
+    "patterns": [
+      "定语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "文化艺术",
+      "社会服务"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-50d614bb825d2a",
+    "year": 2026,
+    "district": "静安区",
+    "exam": "二模",
+    "question": "在城市文化展上，面对外国朋友的浓厚兴趣，志愿者们耐心讲解并亲自示范中国书法，成功推广了这一传统艺术。",
+    "hint": "which",
+    "answer": "At the urban culture exhibition, faced with foreign friends’ strong interest, volunteers patiently explained and personally demonstrated Chinese calligraphy, which successfully promoted this traditional art.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 186,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "relief",
+      "it is a relief that"
+    ],
+    "patterns": [
+      "形式主语",
+      "名词性从句"
+    ],
+    "themes": [
+      "环境保护"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-9bf040528f110c",
+    "year": 2026,
+    "district": "宝山区",
+    "exam": "二模",
+    "question": "令人欣慰的是，越来越多的人有环保意识了。",
+    "hint": "relief",
+    "answer": "It is a relief that more and more people have environmental awareness.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 194,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "wherever"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "城市与出行",
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-aa95341345db3f",
+    "year": 2026,
+    "district": "宝山区",
+    "exam": "二模",
+    "question": "无论去哪里旅游，我表姐都会尝试当地食物来体验文化。",
+    "hint": "wherever",
+    "answer": "Wherever she travels, my cousin tries the local food to experience the culture.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 199,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "no … without"
+    ],
+    "patterns": [
+      "双重否定",
+      "非谓语动词"
+    ],
+    "themes": [
+      "城市与出行",
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-3655029abdcac8",
+    "year": 2026,
+    "district": "宝山区",
+    "exam": "二模",
+    "question": "想起那个有商店和咖啡馆的老街区时，没有人不会油然而生一种向往之情。",
+    "hint": "without",
+    "answer": "No one remembered the old neighborhood with its shops and cafes without feeling a sense of longing.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 204,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "fortunate",
+      "be fortunate to",
+      "face to face"
+    ],
+    "patterns": [
+      "定语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "科技创新",
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-862c33eb1b9b17",
+    "year": 2026,
+    "district": "宝山区",
+    "exam": "二模",
+    "question": "我们真的很幸运能有机会和像您这样大名鼎鼎的科学家面对面探讨我们感兴趣的话题。",
+    "hint": "fortunate",
+    "answer": "We are really fortunate to have the opportunity to talk with a well-known scientist like you face to face about the topic we are interested in.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 209,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "notice",
+      "put up",
+      "appeal to … to do"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "城市与出行",
+      "社会服务"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-288a19b5db9f37",
+    "year": 2026,
+    "district": "普陀区",
+    "exam": "二模",
+    "question": "公园的管理方张贴了新告示，呼吁人们文明遛狗。",
+    "hint": "notice",
+    "answer": "The park management put up a new notice, appealing to people to walk their dogs in a civilized way.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 217,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "curious",
+      "be curious about"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "职业与梦想",
+      "自然与动物"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-af98ca9e717c5a",
+    "year": 2026,
+    "district": "普陀区",
+    "exam": "二模",
+    "question": "他打小就对海洋充满好奇，长大后竟真的成为了一名水手。",
+    "hint": "curious",
+    "answer": "He was curious about the ocean from a young age, and when he grew up, he actually became a sailor.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 222,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "upgrade",
+      "not only … but also"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "并列结构"
+    ],
+    "themes": [
+      "城市与出行",
+      "社会服务"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-d8fb5aa076be70",
+    "year": 2026,
+    "district": "普陀区",
+    "exam": "二模",
+    "question": "推进市区老旧小区改造，既要扮靓城市“面子”，更要夯实民生“里子”。",
+    "hint": "upgrade",
+    "answer": "To promote the upgrade of old residential areas in urban areas, we should not only beautify the city’s appearance but also consolidate the foundation of people’s livelihood.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 227,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "find oneself in",
+      "outweigh"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-556a544cf893a6",
+    "year": 2026,
+    "district": "普陀区",
+    "exam": "二模",
+    "question": "随着全球经济一体化的加深，许多企业发现自己正陷入一种境地：过度扩张的风险往往超过了潜在的获利空间。",
+    "hint": "where",
+    "answer": "With the deepening of global economic integration, many enterprises find themselves in a situation where the risks of excessive expansion often outweigh their potential profit margins.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 232,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "proportion",
+      "out of balance"
+    ],
+    "patterns": [
+      "状语从句",
+      "被动语态"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-3b365dcd29d7f5",
+    "year": 2026,
+    "district": "杨浦区",
+    "exam": "二模",
+    "question": "当饮食中的纤维比例失调时，营养就会受损。",
+    "hint": "proportion",
+    "answer": "When the proportion of fibre in the diet is out of balance, nutrition will be impaired.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 240,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "endanger",
+      "remove"
+    ],
+    "patterns": [
+      "定语从句",
+      "被动语态"
+    ],
+    "themes": [
+      "灾害与安全"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-980f750d3eeed3",
+    "year": 2026,
+    "district": "杨浦区",
+    "exam": "二模",
+    "question": "那块电子显示屏存在线路故障并危及公共安全，现已被拆除。",
+    "hint": "whose",
+    "answer": "The electronic display screen whose wiring faults endangered public safety has been removed now.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 245,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "bloom",
+      "do one’s part",
+      "to the full"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "学习成长",
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-c95f47e056784d",
+    "year": 2026,
+    "district": "杨浦区",
+    "exam": "二模",
+    "question": "从导演到舞台设计，每个学生在戏剧节上都各尽其能，使其才华在课堂外尽情绽放。",
+    "hint": "bloom",
+    "answer": "From directors to stage designers, every student did their part in the Drama Festival, letting their talents bloom to the full outside the classroom.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 250,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "be measured by",
+      "relevance to"
+    ],
+    "patterns": [
+      "状语从句",
+      "被动语态"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-695a0ab99cc283",
+    "year": 2026,
+    "district": "杨浦区",
+    "exam": "二模",
+    "question": "无论采取何种策略，其成效最终都应由它与学生日常体验及个人成长的相关性来衡量。",
+    "hint": "Whatever",
+    "answer": "Whatever strategy is adopted, its effectiveness should ultimately be measured by its relevance to students’ daily experiences and personal growth.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 255,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "lie",
+      "lie in",
+      "rather than"
+    ],
+    "patterns": [
+      "名词性从句"
+    ],
+    "themes": [
+      "文化艺术",
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-4c70ac1161b6e7",
+    "year": 2026,
+    "district": "嘉定区",
+    "exam": "二模",
+    "question": "春节的意义体现在和谁一起过年，而非在哪里过年。",
+    "hint": "lie",
+    "answer": "The meaning of the Spring Festival lies in who you spend it with, rather than where you spend it.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 263,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "join",
+      "with the help of",
+      "join together"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "科技创新",
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-7236d6d51e3938",
+    "year": 2026,
+    "district": "嘉定区",
+    "exam": "二模",
+    "question": "借助光影，学生们开启了一段科学与艺术交融的探索之旅。",
+    "hint": "join",
+    "answer": "With the help of light and shadow, the students started a journey of exploration where science and art join together.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 268,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "since",
+      "it is … since"
+    ],
+    "patterns": [
+      "状语从句",
+      "定语从句"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-423011f2bc5a4a",
+    "year": 2026,
+    "district": "嘉定区",
+    "exam": "二模",
+    "question": "来到这座南方小城三十年，所见飘雪，成规模者，数场而已。",
+    "hint": "since",
+    "answer": "It is/has been thirty years since I came to this small southern city, and I have witnessed only a few times when the snow was heavy.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 273,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "account",
+      "take … into account"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "科技创新",
+      "社会服务"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-2b5fcd276e8e41",
+    "year": 2026,
+    "district": "嘉定区",
+    "exam": "二模",
+    "question": "当技术回归服务于人的目的，城市的每一次智能化升级就能听见普通人的声音。",
+    "hint": "account",
+    "answer": "When technology returns to the purpose of serving people, every smart upgrade in the city can take the voices of ordinary people into account.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 278,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "role",
+      "play an important role in"
+    ],
+    "patterns": [],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-8acb48dcb8a8cc",
+    "year": 2026,
+    "district": "黄浦区",
+    "exam": "二模",
+    "question": "良好的沟通在任何关系中都很重要。",
+    "hint": "role",
+    "answer": "Good communication plays an important role in any relationship.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 286,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "take time"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "定语从句"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-bd6a3a00948c3f",
+    "year": 2026,
+    "district": "黄浦区",
+    "exam": "二模",
+    "question": "建这座桥是一项复杂的工作，花费了数年时间才完成。",
+    "hint": "which",
+    "answer": "Building the bridge is a complex task, which took years to complete.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 291,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "dream",
+      "dream of",
+      "down-to-earth"
+    ],
+    "patterns": [
+      "祈使句",
+      "定语从句"
+    ],
+    "themes": [
+      "职业与梦想"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-6c14c2bedaebaf",
+    "year": 2026,
+    "district": "黄浦区",
+    "exam": "二模",
+    "question": "脚踏实地地走好每一步，祝大家都能站在自己曾经幻想了无数次的未来里。",
+    "hint": "dream",
+    "answer": "Take every step in a down-to-earth manner, and may you all stand in the future that/which you’ve dreamed of countless times before.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 296,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "even though"
+    ],
+    "patterns": [
+      "定语从句",
+      "状语从句",
+      "并列结构"
+    ],
+    "themes": [
+      "人际沟通",
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-bb96625dda67f1",
+    "year": 2026,
+    "district": "黄浦区",
+    "exam": "二模",
+    "question": "你可能不是拯救世界的超级英雄，但你可以是那个在朋友难过时听他倾诉一小时的人，是那个哪怕生活艰难仍然认真做饭的人。",
+    "hint": "or",
+    "answer": "You may not be a superhero who saves the world, but you can be the one who listens to a friend for an hour when he is sad, or the one who still cooks carefully even though life is tough.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 301,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "display",
+      "on display"
+    ],
+    "patterns": [],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-d51cdc7df08c2d",
+    "year": 2026,
+    "district": "虹口区",
+    "exam": "二模",
+    "question": "农贸市场里，色泽鲜亮、汁水充足的西红柿随处可见。",
+    "hint": "display",
+    "answer": "In the farmers’ market, tomatoes with bright colors and abundant juice are on display everywhere.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 310,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "collection",
+      "draw inspiration from",
+      "launch a collection"
+    ],
+    "patterns": [
+      "并列结构"
+    ],
+    "themes": [
+      "文化艺术",
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-50369d420dd536",
+    "year": 2026,
+    "district": "虹口区",
+    "exam": "二模",
+    "question": "该品牌从传统编织工艺中汲取灵感，推出了马年新春系列。",
+    "hint": "collection",
+    "answer": "The brand drew inspiration from traditional weaving techniques and launched the Horse Year New Spring collection.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 315,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "discount",
+      "offer discounts",
+      "save money"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "经济消费",
+      "环境保护"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-e14befd7a08c96",
+    "year": 2026,
+    "district": "虹口区",
+    "exam": "二模",
+    "question": "越来越多咖啡店推出自带杯优惠，咖啡爱好者每月都能省下一笔不小的开销。",
+    "hint": "discount",
+    "answer": "More and more coffee shops are offering discounts for bringing their own cups, so coffee lovers can save a significant amount of money each month.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 320,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "so that",
+      "learn by doing"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "状语从句"
+    ],
+    "themes": [
+      "学习成长",
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-08f84d04910c94",
+    "year": 2026,
+    "district": "虹口区",
+    "exam": "二模",
+    "question": "为推动教育改革，李教授创立了自动化技术研究中心，开设机器人课程，以便学生在做中学、在探索中创新。",
+    "hint": "so that",
+    "answer": "To promote educational reform, Professor Li founded the Automation Technology Research Center and offered robotics courses so that students could learn by doing and innovate through exploration.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 325,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "should",
+      "role model"
+    ],
+    "patterns": [
+      "被动语态",
+      "名词性从句"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-4e8586d7fd994f",
+    "year": 2026,
+    "district": "徐汇区",
+    "exam": "二模",
+    "question": "应该让孩子们知道谁才是他们该追的星。",
+    "hint": "should",
+    "answer": "Children should be taught whom they ought to follow as role models.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 335,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "such",
+      "so … that"
+    ],
+    "patterns": [
+      "状语从句",
+      "被动语态"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [
+      "原题提示词为 such，但参考答案及配套说明使用 so … that，保留原文待核对。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "q-0b3f7287fb97a5",
+    "year": 2026,
+    "district": "徐汇区",
+    "exam": "二模",
+    "question": "这款翻译软件非常精准，已被联合国多个部门采用。",
+    "hint": "such",
+    "answer": "This translation software is so accurate that it has been adopted by several departments of the United Nations.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 336,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "not until"
+    ],
+    "patterns": [
+      "倒装句",
+      "状语从句",
+      "名词性从句",
+      "被动语态"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-813207514285be",
+    "year": 2026,
+    "district": "徐汇区",
+    "exam": "二模",
+    "question": "直到最终数据呈现在面前， 他们才意识到之前的传说并非空穴来风。",
+    "hint": "until",
+    "answer": "Not until the final data were presented before them did they realize that the previous legend was not groundless.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 337,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "not only … but also",
+      "as … as",
+      "achieve a breakthrough"
+    ],
+    "patterns": [
+      "比较结构",
+      "并列结构",
+      "被动语态"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-58072adb190635",
+    "year": 2026,
+    "district": "徐汇区",
+    "exam": "二模",
+    "question": "这种新型材料的研发已在我们的太空实验室获得突破，它不仅轻如羽毛，而且强度堪比钢铁，已应用于航天领域。",
+    "hint": "not only...but also",
+    "answer": "The development of this new material has achieved a breakthrough in our space laboratory. It is not only as light as a feather but also as strong as steel, and has already been applied in the aerospace field.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 338,
+    "originalNumber": "55",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "there is no denying",
+      "there is no doubt"
+    ],
+    "patterns": [
+      "There be 句型",
+      "名词性从句"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-bfa4f1c455d9d7",
+    "year": 2026,
+    "district": "青浦区",
+    "exam": "二模",
+    "question": "毋庸置疑，那些古老的遗迹总是令人心驰神往。",
+    "hint": "There be…",
+    "answer": "There is no denying that those ancient remains have always fascinated people. / There is no doubt that those ancient ruins have always been fascinating to people.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 352,
+    "originalNumber": "52",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "survive",
+      "if … be to"
+    ],
+    "patterns": [
+      "状语从句",
+      "并列结构"
+    ],
+    "themes": [
+      "自然与动物"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-6372764f56d956",
+    "year": 2026,
+    "district": "青浦区",
+    "exam": "二模",
+    "question": "要想养活这些娇嫩的花儿，就得保证光照充足、浇水及时和营养充分。",
+    "hint": "survive",
+    "answer": "These delicate flowers need sufficient sunlight, timely watering and adequate nutrients if they are to survive.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 354,
+    "originalNumber": "53",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "evolve",
+      "it never occurred to",
+      "evolve into"
+    ],
+    "patterns": [
+      "名词性从句",
+      "形式主语"
+    ],
+    "themes": [
+      "职业与梦想",
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-c69f1ececf220a",
+    "year": 2026,
+    "district": "青浦区",
+    "exam": "二模",
+    "question": "这位年轻的天文学家从未料到，儿时观星的爱好，竟会逐渐演变成自己的职业追求。",
+    "hint": "evolve",
+    "answer": "The young astronomer never anticipated that his childhood hobby of stargazing would eventually evolve into his professional pursuit. / It never occurred to the young astronomer that his childhood interest in stargazing would gradually evolve into his career.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 356,
+    "originalNumber": "54",
+    "manualTags": true
+  },
+  {
+    "kind": "mock",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "rush",
+      "rush through",
+      "rather than",
+      "in one’s own way"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "并列结构"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": false,
+    "id": "q-a609bd86f68030",
+    "year": 2026,
+    "district": "青浦区",
+    "exam": "二模",
+    "question": "这座重建后的博物馆，其设计初衷是让参观者放慢脚步，而非走马观花。它邀请人们以自己的方式去探索、思考、畅想未来。",
+    "hint": "rush",
+    "answer": "Designed to slow visitors down rather than make them rush through, the rebuilt museum invites visitors to explore, reflect and imagine the future in their own way.",
+    "sourceId": "seed-2026-second",
+    "sourceName": "2026高三二模.docx",
+    "page": 358,
+    "originalNumber": "55",
+    "manualTags": true
+  }
+]
