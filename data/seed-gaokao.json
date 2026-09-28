@@ -1,0 +1,3056 @@
+[
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "cloth",
+      "be suitable for"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2025-autumn-e35b3d34fe",
+    "year": 2025,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "这块布料轻薄又速干，最适合做运动装。",
+    "hint": "cloth",
+    "answer": "This piece of cloth, which is light, thin and quick to dry, is most suitable for sportswear.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "submit",
+      "submit by"
+    ],
+    "patterns": [
+      "被动语态"
+    ],
+    "themes": [
+      "自然与动物"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2025-spring-61204d765e",
+    "year": 2025,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "种植有机卷心菜的方案必须在下周四之前提交。",
+    "hint": "submit",
+    "answer": "The proposal for planting organic cabbages must be submitted by next Thursday.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "employ",
+      "employ … in",
+      "keep doing"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2024-autumn-5abd8ec83c",
+    "year": 2024,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "她不断尝试将书法元素融入京剧的戏服设计中。",
+    "hint": "employ",
+    "answer": "She keeps trying to employ calligraphy elements in the design of Peking Opera costumes.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "worth",
+      "be worth doing",
+      "can’t help doing",
+      "can’t help but do"
+    ],
+    "patterns": [
+      "名词性从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2024-autumn-dee5d3773f",
+    "year": 2024,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "我的外国友人不禁赞叹：上海值得看的地方有很多啊！",
+    "hint": "worth",
+    "answer": "My foreign friend couldn't help but exclaim that Shanghai has so many places worth visiting.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "fall on",
+      "give a lecture"
+    ],
+    "patterns": [
+      "定语从句",
+      "被动语态"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2024-autumn-8c508abf29",
+    "year": 2024,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "在3月14日国际数学日，这位专家应邀来给小学生做一个关于数学符号的讲座。",
+    "hint": "fall on",
+    "answer": "On International Mathematics Day, which falls on March 14th, the expert was invited to give a lecture on mathematical symbols to primary school students.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "generate",
+      "as expected",
+      "generate interest"
+    ],
+    "patterns": [
+      "状语从句省略"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2023-autumn-eb8e985822",
+    "year": 2023,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "正如预期那样，艺术节引起了游客对民俗文化的兴趣。",
+    "hint": "generate",
+    "answer": "As expected, the art festival generated tourists' interest in folk culture.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "sign",
+      "provide … with",
+      "sign an agreement"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2023-autumn-b6d6194119",
+    "year": 2023,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "这个重点实验室和当地的职业学校签订合作协议，给当地学生们提供非同一般的互动体验。",
+    "hint": "sign",
+    "answer": "This key laboratory has signed a cooperation agreement with local vocational schools to provide local students with an extraordinary interactive experience.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "forget",
+      "forget that"
+    ],
+    "patterns": [
+      "名词性从句",
+      "过去完成时"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2022-autumn-9de5ef2805",
+    "year": 2022,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "妈妈忘记了两天前刚给邻居买了黄瓜。",
+    "hint": "forget",
+    "answer": "Mom forgot that she had just bought cucumbers for her neighbor two days ago.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "so that",
+      "go camping"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2022-autumn-dec69d3fc9",
+    "year": 2022,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "每逢节假日，我们都会去郊区露营，来体验一把闲适惬意的生活。",
+    "hint": "so that",
+    "answer": "On holidays, we go camping in the suburbs so that we can experience a leisurely and relaxing life.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "sow",
+      "look forward to",
+      "a bumper harvest"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "自然与动物"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2022-spring-6105eb7b0b",
+    "year": 2022,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "小张昨天在田里播下了种子，期待来年的丰收。",
+    "hint": "sow",
+    "answer": "Xiao Zhang sowed seeds in the fields yesterday, looking forward to a bumper harvest in the coming year.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "a few",
+      "quite a few",
+      "meet one’s needs"
+    ],
+    "patterns": [
+      "状语从句",
+      "定语从句"
+    ],
+    "themes": [
+      "社会服务",
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2022-spring-32d14ffc6e",
+    "year": 2022,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "鉴于不会熟练用手机打车的老年人不在少数，这家公司提供了一系列的服务来满足他们的需求。",
+    "hint": "a few",
+    "answer": "Considering that there are quite a few old people who are not proficient in using their mobile phones to hail a taxi, the company offers a range of services to meet their needs.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "look",
+      "look after",
+      "祈使句 + and"
+    ],
+    "patterns": [
+      "祈使句",
+      "并列结构"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2021-autumn-5e9f5c40cd",
+    "year": 2021,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "你坐一会，我来看管这六件行李。",
+    "hint": "look",
+    "answer": "Sit down for a while, and I will look after these six pieces of luggage.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "do",
+      "do 强调谓语"
+    ],
+    "patterns": [
+      "祈使句",
+      "状语从句省略"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2021-autumn-30b37e988f",
+    "year": 2021,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "打喷嚏时，务必用纸巾遮住口鼻。",
+    "hint": "Do",
+    "answer": "Do cover your mouth and nose with a tissue when sneezing.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "how come"
+    ],
+    "patterns": [
+      "疑问句"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2021-spring-0f82800528",
+    "year": 2021,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "羽毛球馆空无一人，怎么灯还亮着？",
+    "hint": "how come",
+    "answer": "The badminton hall is empty. How come the lights are still on?",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "take",
+      "it takes … to do"
+    ],
+    "patterns": [
+      "形式主语",
+      "非谓语动词"
+    ],
+    "themes": [
+      "人际沟通",
+      "文化艺术"
+    ],
+    "notes": [
+      "学生版及答案版原题均为“一副风景画”，疑为“一幅”，保留原题。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2021-spring-83d242bffd",
+    "year": 2021,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "我花了三天画了一副风景画，庆贺我曾祖父的百岁寿辰。",
+    "hint": "take",
+    "answer": "It took me three days to draw a landscape painting to celebrate my great-grandfather’s 100th birthday.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "substitute",
+      "mind doing",
+      "substitute for"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2020-autumn-fff0989812",
+    "year": 2020,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "你是否介意代替我去开会吗？",
+    "hint": "substitute",
+    "answer": "Would you mind substituting for me at the meeting?",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "in order",
+      "in order that",
+      "have a sound sleep"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2020-autumn-2acff46e36",
+    "year": 2020,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "为了让妈妈睡个好觉，小王把水槽和橱柜擦得干干净净的。",
+    "hint": "in order",
+    "answer": "Xiao Wang cleaned the sink and cupboard thoroughly in order that his mother could have a sound sleep.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "appreciate",
+      "appreciate one’s effort"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2020-spring-569934bb5e",
+    "year": 2020,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "我们非常感激他们为保护上海方言所付出的努力。",
+    "hint": "appreciate",
+    "answer": "We deeply appreciate the effort they have made to protect the Shanghai dialect.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "give way to",
+      "have a habit of"
+    ],
+    "patterns": [
+      "定语从句省略"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2020-spring-155829b354",
+    "year": 2020,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "正如那本小册子介绍的那样，那里的司机都有礼让行人的习惯。",
+    "hint": "As",
+    "answer": "As introduced in that pamphlet, all the drivers there have a habit of giving way to pedestrians.",
+    "originalCategory": "一、日常生活用语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "nothing more … than"
+    ],
+    "patterns": [
+      "There be 句型",
+      "比较结构",
+      "非谓语动词"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2023-spring-9b4890f5d9",
+    "year": 2023,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "对于喜剧演员来说，没有什么比在表演中听到观众的阵阵笑声更有成就感的了。",
+    "hint": "there be",
+    "answer": "For comedians, there is nothing more fulfilling than hearing bursts of laughter from the audience during a performance.",
+    "originalCategory": "二、固定表达或句型",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "as … as"
+    ],
+    "patterns": [
+      "形式主语",
+      "状语从句",
+      "比较结构",
+      "定语从句"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2022-autumn-69319b318c",
+    "year": 2022,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "这条运河花了数百年才建成，如今虽然已经不见往昔的繁忙景象，但依然是纵横东西的重要水路。",
+    "hint": "as…as",
+    "answer": "It took hundreds of years to construct this canal and although it is no longer as prosperous and busy as it once was, it is still an important waterway that runs across east and west.",
+    "originalCategory": "二、固定表达或句型",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "since",
+      "it has been … since"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "自然与动物"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2022-spring-fc5f19c076",
+    "year": 2022,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "他已经几十年没有看过如此壮丽的日出了。",
+    "hint": "since",
+    "answer": "It has been several decades since he saw such a magnificent sunrise.",
+    "originalCategory": "二、固定表达或句型",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "customer-oriented"
+    ],
+    "patterns": [
+      "强调句"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2022-spring-caf1add13c",
+    "year": 2022,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "正是因为贯彻顾客为本的理念，这家落寞已久的社区商场才得以重新回到大众的视线。",
+    "hint": "It",
+    "answer": "It is precisely because of the implementation of the customer - oriented philosophy that this long - deserted community shopping mall is able to return to the public's attention.",
+    "originalCategory": "二、固定表达或句型",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "a rule",
+      "make it a rule to"
+    ],
+    "patterns": [
+      "形式宾语",
+      "非谓语动词"
+    ],
+    "themes": [
+      "社会服务"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2020-spring-c4ec8c0577",
+    "year": 2020,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "每周三，这些大学生都会雷打不动地去孤儿院做志愿者，教孩子们剪纸和编织。",
+    "hint": "a rule",
+    "answer": "These university students make it a rule to work as volunteers in the orphanage every Wednesday, teaching children paper - cutting and knitting.",
+    "originalCategory": "二、固定表达或句型",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "by",
+      "increase by"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2025-autumn-ff7611ffae",
+    "year": 2025,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "水果采摘让游客身心放松，也帮助果农增加了至少三分之二的销量，一举两得。",
+    "hint": "by",
+    "answer": "Fruit picking made the tourists feel relaxed physically and mentally and helped the fruit farmers increase sales by at least two-thirds, achieving two goals at one time.",
+    "originalCategory": "四字成语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "happen",
+      "it happens that",
+      "be familiar with"
+    ],
+    "patterns": [
+      "形式主语",
+      "名词性从句"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2025-spring-1b7ad4200d",
+    "year": 2025,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "巧的是，记者的一位远房亲戚对乡村发展的丝丝脉络了如指掌。",
+    "hint": "happen",
+    "answer": "It so happens that a distant relative of the journalist is intimately familiar with the intricate details of rural development.",
+    "originalCategory": "四字成语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "undergo",
+      "ups and downs",
+      "flock to"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [
+      "两份原题均为“纷沓而至”，疑为“纷至沓来”，保留原题。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2025-spring-f44547426d",
+    "year": 2025,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "这个夜市历经数十年风雨，既有底气坚守本色，也有活力探索新路，年轻人纷沓而至。",
+    "hint": "undergo",
+    "answer": "The night market has undergone decades of ups and downs, maintaining the confidence to stay true to its essence while having the vigor to explore new paths, attracting young people to flock to it.",
+    "originalCategory": "四字成语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "if not"
+    ],
+    "patterns": [
+      "状语从句省略"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2023-spring-1119557eb2",
+    "year": 2023,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "如果不精心安排，明天的美术馆之行将会变成走马观花。",
+    "hint": "If",
+    "answer": "If not carefully arranged, tomorrow's trip to the art gallery will become a quick and casual glance at things.",
+    "originalCategory": "四字成语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "call on",
+      "make it a priority to"
+    ],
+    "patterns": [
+      "形式宾语",
+      "非谓语动词"
+    ],
+    "themes": [
+      "社会服务"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2023-spring-cf5794f4c1",
+    "year": 2023,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "上任以来，镇长始终将了解民生、听取民意作为重中之重，利用工作之余走访了小镇上的每家每户。",
+    "hint": "call on",
+    "answer": "Since taking office, the mayor has always made it a priority to know about people's livelihoods and listen to public opinion, and has called on every household in town in his spare time.",
+    "originalCategory": "四字成语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "a difference",
+      "make a difference"
+    ],
+    "patterns": [
+      "祈使句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2022-autumn-a3cd15dbde",
+    "year": 2022,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "切记不要苛求运动的强度和频率，细水长流方能有成效。",
+    "hint": "a difference",
+    "answer": "Remember not to push yourself too hard with the intensity and frequency of exercise—consistent and steady effort makes all the difference.",
+    "originalCategory": "四字成语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "company"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [
+      "参考答案 with company of 疑有搭配问题，保留原文。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2021-spring-0b9e1cee0e",
+    "year": 2021,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "这条小河蜿蜒流淌，陪伴世代居住在这里的村民，见证了这个村庄的日新月异。",
+    "hint": "company",
+    "answer": "The villagers have lived here for generations with company of this small winding river, which witnesses the rapid changes in the village.",
+    "originalCategory": "四字成语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "turn",
+      "turn … into"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2020-autumn-87eec8fd90",
+    "year": 2020,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "面对网店的挑战，这家百年老店举措并施，化危机为转机，最终化解危机，再创辉煌。",
+    "hint": "turn",
+    "answer": "Faced with challenges from online shops, this time - honored store with a history of 100 years took several measures to turn the crisis into opportunities, and finally resolved it and achieved success again.",
+    "originalCategory": "四字成语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "a flash in the pan",
+      "be a hit"
+    ],
+    "patterns": [
+      "状语从句",
+      "被动语态"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2020-spring-5acb4d297a",
+    "year": 2020,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "这首歌在今年的艺术节上首发时，因其旋律欢快、风格诙谐而引起轰动，但只是昙花一现。",
+    "hint": "when",
+    "answer": "This song was a hit for its joyful rhythm and humorous style when it was first performed at the Art Festival this year, but the popularity was just a flash in the pan.",
+    "originalCategory": "四字成语",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "equal",
+      "be equal to",
+      "in a way"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2025-autumn-c0b5b18828",
+    "year": 2025,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "他回答得吞吞吐吐，从某种意义上说，就是婉拒你的邀请。",
+    "hint": "equal",
+    "answer": "His hesitant reply, in a way, is equal to declining your invitation.",
+    "originalCategory": "四、不对等翻译",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "delight",
+      "upon doing"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2024-spring-e7e8d798f9",
+    "year": 2024,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "在电子邮件时代，许多人依然会因为收到纸质信件而欣喜不已。",
+    "hint": "delight",
+    "answer": "In the era of email, many people still experience delight upon receiving paper letters.",
+    "originalCategory": "四、不对等翻译",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "emphasis",
+      "with an emphasis on"
+    ],
+    "patterns": [
+      "介词结构"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2024-spring-68e3d47dc3",
+    "year": 2024,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "这本书介绍农历的起源，并强调其在中国古代农业发展中的重要作用。",
+    "hint": "emphasis",
+    "answer": "This book introduces the origin of the lunar calendar, with an emphasis on its crucial role in the development of agriculture in ancient China.",
+    "originalCategory": "四、不对等翻译",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "aware",
+      "be aware that"
+    ],
+    "patterns": [
+      "名词性从句"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2023-autumn-288277be8e",
+    "year": 2023,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "你注意到这个地区每个部落都有不成文的规矩吗？",
+    "hint": "aware",
+    "answer": "Are you aware that every tribe in this area has unwritten rules?",
+    "originalCategory": "四、不对等翻译",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "inform",
+      "for a while"
+    ],
+    "patterns": [
+      "被动语态",
+      "名词性从句"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2023-spring-2cc0ed5b30",
+    "year": 2023,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "他接到通知，实验结果一时半会儿出不来。",
+    "hint": "inform",
+    "answer": "He has been informed that the results of the experiment won't be available for a while.",
+    "originalCategory": "四、不对等翻译",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "remind",
+      "remind … of",
+      "run across"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "状语从句省略"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2021-autumn-29734559e8",
+    "year": 2021,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "那位头发花白的外交官与他的老友不期而遇，脑海里浮现出那些为理想奋斗的青春岁月。",
+    "hint": "remind",
+    "answer": "The grey-haired diplomat ran across his old friend by chance, reminding him of the youthful days when striving for their ideals.",
+    "originalCategory": "四、不对等翻译",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "under",
+      "under restoration",
+      "be expected to"
+    ],
+    "patterns": [
+      "被动语态"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [
+      "参考答案 by the end of late June 表述疑有冗余，保留原文。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2021-autumn-e8ca52da6b",
+    "year": 2021,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "这位已故先驱者的故居是一间不起眼的木屋，现正在维修，游客有望在6月底一睹真容。",
+    "hint": "under",
+    "answer": "The former residence of this late pioneer, a humble wood cabin, is under restoration now and visitors are expected to see its real face by the end of late June.",
+    "originalCategory": "四、不对等翻译",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "however + 形容词"
+    ],
+    "patterns": [
+      "状语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2025-autumn-4e21378b51",
+    "year": 2025,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "无论压力多大，这位天才运动员都能稳定发挥，在各大赛事中摘金夺银，为国争光。",
+    "hint": "However",
+    "answer": "However great the pressure is, this gifted athlete performs well consistently, winning gold and silver medals in major competitions and bringing honor to her country.",
+    "originalCategory": "五、各类从句",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "whose",
+      "off-peak hours"
+    ],
+    "patterns": [
+      "定语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2025-spring-8f70ce5ab2",
+    "year": 2025,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "这个两层楼的酒店古色古香，坐落于半山腰，住店客人得以轻松登顶，并错峰参观纪念馆。",
+    "hint": "whose",
+    "answer": "This two-storey hotel, whose architecture exudes an antique charm, is located halfway up the hill, allowing guests to easily reach the summit and visit the memorial museum during off-peak hours.",
+    "originalCategory": "五、各类从句",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "blend … into"
+    ],
+    "patterns": [
+      "名词性从句"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2024-autumn-2fb8e6e9a3",
+    "year": 2024,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "这个博物馆的神奇之处在于，它将乡村的变迁、时光的痕迹和童年的回忆融合在了一个固定的空间中。",
+    "hint": "What",
+    "answer": "What makes this museum amazing is that it blends the changes in rural areas, the traces of time, and childhood memories into a fixed space.",
+    "originalCategory": "五、各类从句",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "whether … or"
+    ],
+    "patterns": [
+      "状语从句",
+      "定语从句"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2024-spring-3f40f2fece",
+    "year": 2024,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "无论音乐还是绘画，经典作品都具有跨越时空的力量。",
+    "hint": "whether",
+    "answer": "Whether it's in music or painting, classic works possess the power that transcends time and space.",
+    "originalCategory": "五、各类从句",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "inject",
+      "inject … into"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2024-spring-d01289aaa3",
+    "year": 2024,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "新出台的政策创造了大量就业机会，吸引更多青年才俊定居该地区，为当地企业注入新活力。",
+    "hint": "inject",
+    "answer": "The newly introduced policy has created a significant number of employment opportunities, attracting more talented young individuals to settle in the region and injecting fresh vitality into local businesses.",
+    "originalCategory": "五、各类从句",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "revolve around"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2023-autumn-df6d28dcd4",
+    "year": 2023,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "这个电视连续剧的剧情是围绕一个华南地区的虚拟城市展开的，汽车企业是这个城市的骄傲。",
+    "hint": "where",
+    "answer": "The plot of this TV series revolves around a virtual city in South China, where automobile companies are the pride of the city.",
+    "originalCategory": "五、各类从句",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "the instant"
+    ],
+    "patterns": [
+      "状语从句"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2021-spring-38a768c1f7",
+    "year": 2021,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "遨游太空一周，载人飞船安全落地后，这一刻，原本寂静的发射中心一片欢腾。",
+    "hint": "The instant...",
+    "answer": "The instant the manned spacecraft landed safely after traveling in space for a week, the originally silent launch center was full of joy.",
+    "originalCategory": "五、各类从句",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "when"
+    ],
+    "patterns": [
+      "定语从句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2020-autumn-020f9ca41d",
+    "year": 2020,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "春暖花开的四月，是领略这个江南小镇美景的最佳时机。",
+    "hint": "when",
+    "answer": "April, when warm spring comes and flowers blossom, is the best time to appreciate the beautiful scenery of this town in the South of Yangtze River.",
+    "originalCategory": "五、各类从句",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "would rather",
+      "would rather … than"
+    ],
+    "patterns": [
+      "并列结构",
+      "被动语态"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2017-autumn-a794e56e9b",
+    "year": 2017,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "李雷宁愿受罚也不说谎。",
+    "hint": "would rather",
+    "answer": "Li Lei would rather get/ be punished than lie/ tell a lie/ lies.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "arise",
+      "in the process of"
+    ],
+    "patterns": [
+      "现在完成时"
+    ],
+    "themes": [
+      "经济消费"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2017-autumn-e4201086f4",
+    "year": 2017,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "在投资项目的过程中出现了一些问题。",
+    "hint": "arise",
+    "answer": "Some problems have arisen in the process/ course of the investment project.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "commit",
+      "be committed to"
+    ],
+    "patterns": [
+      "现在完成时",
+      "被动语态",
+      "非谓语动词"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2017-autumn-3c4ba60d7f",
+    "year": 2017,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "在过去的三年中他一直致力于研究信息的传播速度和人们生活节奏之间的关系。",
+    "hint": "commit",
+    "answer": "During/Over/In/ For the past three years, he has committed himself/ has been committed to studying the relationship between the speed of information transmission and the rhythm/ pace of people's lives.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "it is claimed that",
+      "far from"
+    ],
+    "patterns": [
+      "形式主语",
+      "名词性从句",
+      "被动语态"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2017-autumn-628a84e0d4",
+    "year": 2017,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "有人声称这种减肥药丸 diet/de-fatting 效果显著，立竿见影，且对身体无害，但事实远非如此。",
+    "hint": "It",
+    "answer": "It is claimed that this kind of diet pills has a remarkable and immediate effect 或 gets instant results and does no harm to humans, but it is far from the truth/ fact/ case.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "care",
+      "care about"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2017-spring-1a82d26f21",
+    "year": 2017,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "你不必在乎他人对你的评论。",
+    "hint": "care",
+    "answer": "You don't need to care about others' comments on you.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "expose",
+      "be exposed to"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "被动语态"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2017-spring-14ebd23778",
+    "year": 2017,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "大量阅读书籍有助于我们的成长。",
+    "hint": "expose",
+    "answer": "Being much exposed to books/ Being exposed to books extensively is helpful to our growth.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "the more … the more",
+      "be likely to"
+    ],
+    "patterns": [
+      "比较结构"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [
+      "参考答案 practical 后有孤立斜线，保留原文。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2017-spring-937e91c731",
+    "year": 2017,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "你的网站内容越实用，使用起来越方便，就越有可能成功。",
+    "hint": "The more..., the more...",
+    "answer": "The more practical / your website’s content is and the more user-friendly your website is, the more likely it is to succeed.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "step by step",
+      "break through"
+    ],
+    "patterns": [
+      "强调句",
+      "非谓语动词"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2017-spring-f3b3683dfd",
+    "year": 2017,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "正因为她按部就班地实现了每一个短期目标，才会在科学领域不断有所突破。",
+    "hint": "It",
+    "answer": "It was because she accomplished each short-term goal as planned/ step by step/ according to routine/ following procedures that she kept breaking through in the field of science.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "may",
+      "may have done"
+    ],
+    "patterns": [
+      "情态动词 + 完成式"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2018-autumn-f2bfa1d7d7",
+    "year": 2018,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "他们中的哪一个可能做过排球教练？",
+    "hint": "may",
+    "answer": "Who may have been a volleyball coach among them?",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "make for",
+      "see … do"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2018-autumn-f30594bfbc",
+    "year": 2018,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "我看到他换上徒步鞋，走向了草坪。",
+    "hint": "make for",
+    "answer": "I saw him put on the hiking shoes, making for the grassland/ lawn.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "reminder",
+      "as a reminder",
+      "every six hours"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2018-autumn-8e8b6fd397",
+    "year": 2018,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "妈妈把闹钟设置为六小时响一次，提醒自己给宝宝量体温。",
+    "hint": "reminder",
+    "answer": "Mom set the alarm clock ringing every six hours as a reminder to take her baby's temperature.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "until",
+      "deal with"
+    ],
+    "patterns": [
+      "状语从句",
+      "被动语态"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2018-autumn-7caed2182a",
+    "year": 2018,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "在这个村庄里，人们通常每顿饭吃 8 分饱，这个健康的饮食习惯最初是为了应对食物短缺的困境。",
+    "hint": "until",
+    "answer": "In the village, people often eat until they are nearly full, and this healthy eating habit was originally developed/ formed to deal with/ cope with/ address the difficult situation of food shortages.\n\n可替换表达：…, this healthy eating habit had been intended to…",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "祈使句 + or",
+      "gain weight"
+    ],
+    "patterns": [
+      "祈使句",
+      "并列结构",
+      "形式主语"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2018-spring-fd51b93fd1",
+    "year": 2018,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "少喝含糖的饮料，否则你会容易发胖。",
+    "hint": "or",
+    "answer": "Don’t drink too many sugary drinks/ sugared beverages, or it is easy for you to gain weight.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "guilty",
+      "insist that",
+      "be guilty of"
+    ],
+    "patterns": [
+      "名词性从句"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [
+      "两份资料的中文措辞不同；保留学生版原题。答案版原题：在法庭上，他坚持【声称】自己没犯抢劫罪。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2018-spring-75e88e338b",
+    "year": 2018,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "在法庭上，他坚持自己没犯抢劫罪。",
+    "hint": "guilty",
+    "answer": "He insisted that he wasn't guilty of robbing / robbery in court/ at the court.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "occur",
+      "in a good mood"
+    ],
+    "patterns": [
+      "名词性从句",
+      "状语从句"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2018-spring-6e66d43782",
+    "year": 2018,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "你是不是同意，在心情愉快的时候，总会有创意出现？",
+    "hint": "occur",
+    "answer": "Do you agree that creativity always occurs when you are in a good mood?",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "when it comes to",
+      "put oneself in others’ shoes"
+    ],
+    "patterns": [
+      "状语从句",
+      "名词性从句",
+      "虚拟语气"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2018-spring-8ecba4ca9b",
+    "year": 2018,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "当谈到办公室冲突的时候，专家建议更多反思自己，更多换位思考，并及时与同事沟通。",
+    "hint": "When it comes to",
+    "answer": "When it comes to office conflicts, experts suggest/ advise that one (should) reflect more on himself, always put himself in others' shoes, and communicate with workmates in time/ in a timely manner.\n\n可替换表达：advise sb. to do/ advise doing/ suggest doing",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "patient",
+      "be patient with",
+      "hard of hearing"
+    ],
+    "patterns": [
+      "祈使句",
+      "并列结构"
+    ],
+    "themes": [
+      "人际沟通"
+    ],
+    "notes": [
+      "两份资料的中文措辞不同；保留学生版原题。答案版原题：爷爷有一点耳背，请对他耐心一点。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2019-autumn-2cc08ad6cf",
+    "year": 2019,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "爷爷有点耳背，对他耐心一点。",
+    "hint": "patient",
+    "answer": "Grandfather is a little/bit deaf/ is hard of hearing/ has difficulty in hearing/ has a poor hearing, so please be patient with him.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "how",
+      "used to"
+    ],
+    "patterns": [
+      "感叹句",
+      "名词性从句"
+    ],
+    "themes": [
+      "职业与梦想"
+    ],
+    "notes": [
+      "两份资料的中文措辞不同；保留学生版原题。答案版原题：与学生时代的他相比，那位战士真是判若两人！"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2019-autumn-87e7c4d00f",
+    "year": 2019,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "和学生时代的他相比，那名士兵简直判若两人!",
+    "hint": "How",
+    "answer": "How totally different the soldier is from what he used to be in his school days!\n\nHow totally different the soldier is compared with what he was in his school days!\n\nHow greatly the soldier has changed from what he was in his school days!",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "normal",
+      "get back to normal",
+      "out of reach"
+    ],
+    "patterns": [
+      "独立主格结构",
+      "with 复合结构"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [
+      "两份资料的中文措辞不同；保留学生版原题。答案版原题：随着他的体力逐渐恢复正常，那位业余自行车手的夺冠之梦不再遥不可及。",
+      "参考答案 out ofreach 疑有拼写/空格问题，保留原文。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2019-autumn-85a777046f",
+    "year": 2019,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "随着体力逐渐恢复正常，那名业余自行车手的夺冠之梦不再遥不可及。",
+    "hint": "normal",
+    "answer": "(With) his physical strength coming to normal/ getting back to normal, the amateur cyclist's dream to win the championship is no longer beyond/ out ofreach.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "be worth doing",
+      "not as … as"
+    ],
+    "patterns": [
+      "名词性从句",
+      "比较结构"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [
+      "两份资料的中文措辞不同；保留学生版原题。答案版原题：值得一提的是，在王老师的影响下，她的同事更关注孩子的努力，而非他们的成绩。",
+      "参考答案 under Mrs. Wang influence 疑缺少所有格，保留原文。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2019-autumn-e529969b02",
+    "year": 2019,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "值得一提的是，在王老师影响下，她的同事们更关注孩子们的努力，而不是他们的成绩。",
+    "hint": "as...as...",
+    "answer": "What is worth noting/ noteworthy is that, under Mrs. Wang influence, her colleagues are not paying as much attention to children's academic performance as to their efforts.\n\n可替换表达：It's worth mentioning that ...",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "motivate",
+      "on earth",
+      "motivate … to do"
+    ],
+    "patterns": [
+      "强调句",
+      "疑问句"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2019-spring-ddbb1288f8",
+    "year": 2019,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "究竟是什么激发小王学习电子工程的积极性？",
+    "hint": "motivate",
+    "answer": "What was it that / on earth motivated Xiao Wang to learn electronic engineering?",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "at the cost of"
+    ],
+    "patterns": [
+      "并列结构"
+    ],
+    "themes": [
+      "科技创新"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2019-spring-ef0c343b56",
+    "year": 2019,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "网上支付方便了用户，但是牺牲了他们的隐私。",
+    "hint": "at the cost of",
+    "answer": "Online payment is convenient for users, but (it is) at the cost of their privacy.\n\nOnline payment offers users convenience/ brings convenience to consumers at the cost of their privacy.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "so + 助动词 + 主语",
+      "to one’s satisfaction"
+    ],
+    "patterns": [
+      "倒装句"
+    ],
+    "themes": [
+      "城市与出行"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2019-spring-86937177ae",
+    "year": 2019,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "让我的父母非常满意的是，从这个公寓的餐厅可以看见街对面的世纪公园，从起居室也可以。",
+    "hint": "so",
+    "answer": "Much to my parents' satisfaction, the dining room of the apartment overlooks the Century Park across the street, (and) so does its living room.\n\n可替换表达：What pleases my parents very much/ makes my parents really satisfied is that ...",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "in need of"
+    ],
+    "patterns": [
+      "定语从句",
+      "with 复合结构"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [
+      "两份资料的中文措辞不同；保留学生版原题。答案版原题：博物馆疏于管理，展品积灰，门庭冷清，急亟需改善。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2019-spring-9d762e24bd",
+    "year": 2019,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "博物馆疏于管理，展品积灰，门庭冷清，急需改善。",
+    "hint": "whose",
+    "answer": "The museum, whose exhibits are covered with/collect dust, lacks proper management, with few visitors, and is in an urgent need for/ of improvement.\n\nThe museum, whose exhibits are dusty, is neglected in management/ is not well-managed and is deserted, so everything is badly in need of improvement.\n\n可替换表达：... and requires immediate improvement.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "contrary",
+      "be contrary to",
+      "reach a conclusion"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "学习成长"
+    ],
+    "notes": [
+      "资料将 jumped to 列为可替换表达，其含义可能偏离“得出结论”，保留并待核对。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2026-spring-0f053fa665",
+    "year": 2026,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "我们在化学实验课上得出的结论和预想的相反。",
+    "hint": "contrary",
+    "answer": "The conclusion that we reached in the chemistry lab/experiment class was contrary to our anticipation.\n\nIn the chemistry lab class, we reached a conclusion (that was) contrary to our anticipation.\n\n可替换表达：the conclusion (that) we drew/came to/arrived at/jumped to\n\n可替换表达：in/during/from the chemistry lab/experiment class/lesson/course\n\n可替换表达：(the) expectation(s), anticipation, prediction, assumption, thought; what we(had) anticipated/expected/predicted/assumed/thought; what was expected/predicted; the expected one",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "convey",
+      "since ancient times"
+    ],
+    "patterns": [
+      "现在完成时",
+      "非谓语动词"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [
+      "资料所列 From ancient to now / From past to now 等替换表达疑不自然，保留并待核对。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2026-spring-bbbffcea22",
+    "year": 2026,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "自古以来，人们通过以茶会友传递尊重与和谐的理念。",
+    "hint": "convey",
+    "answer": "Since ancient times, people have conveyed (the values of) respect and harmony by meeting friends over tea.\n\n可替换表达：Historically/ Throughout history/ From ancient to now/ From past to now\n\n可替换表达：Through/by/ with tea; through tea gatherings/meeting/ parties to make friends",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "not … but …",
+      "on and off"
+    ],
+    "patterns": [
+      "状语从句",
+      "并列结构"
+    ],
+    "themes": [
+      "自然与动物"
+    ],
+    "notes": [
+      "资料的部分替换表达（如 This year’s rain、It sometimes rains and / while sometimes stops）与完整原题或语法存在疑点，照录待核对。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2026-spring-c7dd6f371a",
+    "year": 2026,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "今年的雨季并不使人厌烦，因为雨水轻柔飘洒，时下时停，而非暴雨连连。",
+    "hint": "not...but...",
+    "answer": "This year’s rainy season is not annoying because the rain doesn’t pour down continuously but falls softly on and off.\n\n可替换表达：This year’s rain/ rainy season/ period 或 ...(of/on) this year\n\n可替换表达：is not annoying/ upsetting/disturbing/unpleasant/ boring / tiresome/troublesome; doesn’t bother/ upset/ people/us\n\n可替换表达：because/since/as; falls softly/gently/ slightly/lightly; on and off/ from time to time/ at intervals\n\n可替换表达：It sometimes rains and / while sometimes stops\n\n可替换表达：repeated heavy rains/ rain storm/ rain heavily/ fiercely; rain cats and dogs; continuously/ constantly/consecutively",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "remain calm",
+      "one after another"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "情绪与品格"
+    ],
+    "notes": [
+      "资料所列 On the final court/ field/site 等替换表达需结合语境核对，保留原文。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2026-spring-6c69cd8715",
+    "year": 2026,
+    "district": "上海",
+    "exam": "春考/一考真题",
+    "question": "决赛场上，面对对手连珠炮似的提问，她镇定自若、一一应对，赢得了阵阵掌声。",
+    "hint": "which",
+    "answer": "In the finals, she remained calm in the face of the rivals’ questions one after another and answered them one by one, which won waves of applause.\n\nIn the final, she calmly answered each of the questions her opponents fired at her one after another, which earned her rounds of applause.\n\n可替换表达：in the finals / in the final game/ competition; On the final court/ field/site...\n\n可替换表达：One by one/ successively/coming in a row/one question after another",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "worthy",
+      "be worthy of",
+      "be worthy to be done"
+    ],
+    "patterns": [
+      "非谓语动词",
+      "被动语态"
+    ],
+    "themes": [
+      "灾害与安全"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2026-autumn-9fee17b594",
+    "year": 2026,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "消防员在此次行动中英勇无畏，令人敬佩。",
+    "hint": "worthy",
+    "answer": "The firefighters’ bravery in this mission was worthy of admiration / of being admired / to be admired.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "before",
+      "art supplies"
+    ],
+    "patterns": [
+      "祈使句",
+      "定语从句",
+      "状语从句"
+    ],
+    "themes": [
+      "文化艺术"
+    ],
+    "notes": [],
+    "status": "ready",
+    "verified": true,
+    "id": "gaokao-2026-autumn-7ed1202349",
+    "year": 2026,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "趁文具店还没关门，我们去买些明天画画要用的工具吧。",
+    "hint": "before",
+    "answer": "Let’s go to buy some art supplies we’ll need for tomorrow’s painting before the stationery store closes.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "cease",
+      "cease to do",
+      "cease doing"
+    ],
+    "patterns": [
+      "非谓语动词"
+    ],
+    "themes": [
+      "自然与动物"
+    ],
+    "notes": [
+      "两份原题均为“静侯春光”，疑为“静候春光”，保留原题。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2026-autumn-644f084d92",
+    "year": 2026,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "纵使天寒地冻，树木从不轻易放弃生长，依然默默挺立，静侯春光。",
+    "hint": "cease",
+    "answer": "Even in the harshest winter, trees never cease to grow / growing, standing upright / straight in silence and waiting patiently for spring.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  },
+  {
+    "kind": "gaokao",
+    "school": "",
+    "grade": "",
+    "schoolExam": "",
+    "words": [
+      "in the same way",
+      "play one’s role"
+    ],
+    "patterns": [
+      "定语从句"
+    ],
+    "themes": [
+      "健康生活"
+    ],
+    "notes": [
+      "参考答案 role ad works 中 ad 疑为 and，保留原文。"
+    ],
+    "status": "review",
+    "verified": false,
+    "id": "gaokao-2026-autumn-2a66cb4442",
+    "year": 2026,
+    "district": "上海",
+    "exam": "秋考/二考真题",
+    "question": "一支篮球队的配合就像一台机器的运转，每个部分各司其职，协同运作，实现共同目标。",
+    "hint": "in the same way",
+    "answer": "A basketball team operates in the same way that a machine functions, where each part plays its own role ad works together towards a common goal.",
+    "originalCategory": "",
+    "sourceId": "gaokao-answers-2017-2026",
+    "sourceName": "高考真题翻译答案 2017-2026.docx",
+    "page": 0,
+    "relatedSources": [
+      {
+        "id": "gaokao-student-2017-2026",
+        "name": "高考翻译真题学生版 2017-2026.docx"
+      }
+    ],
+    "manualTags": true
+  }
+]

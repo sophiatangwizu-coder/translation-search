@@ -1,0 +1,878 @@
+{
+  "total": 80,
+  "spring": 40,
+  "autumn": 40,
+  "matching": "按内容匹配，未按段落顺序配对；学生版原题优先；保留完整译法和资料认可的替换表达；剔除评分说明及明确错误示例。",
+  "paragraphIndexBase": 0,
+  "records": [
+    {
+      "id": "gaokao-2025-autumn-e35b3d34fe",
+      "studentParagraph": 2,
+      "answerParagraphs": [
+        3
+      ],
+      "answerQuestion": "这块布料轻薄又速干，最适合做运动装。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2025-spring-61204d765e",
+      "studentParagraph": 4,
+      "answerParagraphs": [
+        5
+      ],
+      "answerQuestion": "种植有机卷心菜的方案必须在下周四之前提交。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2024-autumn-5abd8ec83c",
+      "studentParagraph": 6,
+      "answerParagraphs": [
+        7
+      ],
+      "answerQuestion": "她不断尝试将书法元素融入京剧的戏服设计中。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2024-autumn-dee5d3773f",
+      "studentParagraph": 8,
+      "answerParagraphs": [
+        9
+      ],
+      "answerQuestion": "我的外国友人不禁赞叹：上海值得看的地方有很多啊！",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2024-autumn-8c508abf29",
+      "studentParagraph": 10,
+      "answerParagraphs": [
+        11
+      ],
+      "answerQuestion": "在3月14日国际数学日，这位专家应邀来给小学生做一个关于数学符号的讲座。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2023-autumn-eb8e985822",
+      "studentParagraph": 13,
+      "answerParagraphs": [
+        13
+      ],
+      "answerQuestion": "正如预期那样，艺术节引起了游客对民俗文化的兴趣。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2023-autumn-b6d6194119",
+      "studentParagraph": 15,
+      "answerParagraphs": [
+        15
+      ],
+      "answerQuestion": "这个重点实验室和当地的职业学校签订合作协议，给当地学生们提供非同一般的互动体验。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2022-autumn-9de5ef2805",
+      "studentParagraph": 18,
+      "answerParagraphs": [
+        17
+      ],
+      "answerQuestion": "妈妈忘记了两天前刚给邻居买了黄瓜。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2022-autumn-dec69d3fc9",
+      "studentParagraph": 20,
+      "answerParagraphs": [
+        19
+      ],
+      "answerQuestion": "每逢节假日，我们都会去郊区露营，来体验一把闲适惬意的生活。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2022-spring-6105eb7b0b",
+      "studentParagraph": 23,
+      "answerParagraphs": [
+        21
+      ],
+      "answerQuestion": "小张昨天在田里播下了种子，期待来年的丰收。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2022-spring-32d14ffc6e",
+      "studentParagraph": 25,
+      "answerParagraphs": [
+        23
+      ],
+      "answerQuestion": "鉴于不会熟练用手机打车的老年人不在少数，这家公司提供了一系列的服务来满足他们的需求。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2021-autumn-5e9f5c40cd",
+      "studentParagraph": 28,
+      "answerParagraphs": [
+        25
+      ],
+      "answerQuestion": "你坐一会，我来看管这六件行李。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2021-autumn-30b37e988f",
+      "studentParagraph": 30,
+      "answerParagraphs": [
+        27
+      ],
+      "answerQuestion": "打喷嚏时，务必用纸巾遮住口鼻。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2021-spring-0f82800528",
+      "studentParagraph": 32,
+      "answerParagraphs": [
+        29
+      ],
+      "answerQuestion": "羽毛球馆空无一人，怎么灯还亮着？",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2021-spring-83d242bffd",
+      "studentParagraph": 34,
+      "answerParagraphs": [
+        31
+      ],
+      "answerQuestion": "我花了三天画了一副风景画，庆贺我曾祖父的百岁寿辰。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "学生版及答案版原题均为“一副风景画”，疑为“一幅”，保留原题。"
+      ]
+    },
+    {
+      "id": "gaokao-2020-autumn-fff0989812",
+      "studentParagraph": 36,
+      "answerParagraphs": [
+        33
+      ],
+      "answerQuestion": "你是否介意代替我去开会吗？",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2020-autumn-2acff46e36",
+      "studentParagraph": 38,
+      "answerParagraphs": [
+        35
+      ],
+      "answerQuestion": "为了让妈妈睡个好觉，小王把水槽和橱柜擦得干干净净的。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2020-spring-569934bb5e",
+      "studentParagraph": 41,
+      "answerParagraphs": [
+        37
+      ],
+      "answerQuestion": "我们非常感激他们为保护上海方言所付出的努力。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2020-spring-155829b354",
+      "studentParagraph": 44,
+      "answerParagraphs": [
+        39
+      ],
+      "answerQuestion": "正如那本小册子介绍的那样，那里的司机都有礼让行人的习惯。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2023-spring-9b4890f5d9",
+      "studentParagraph": 48,
+      "answerParagraphs": [
+        43
+      ],
+      "answerQuestion": "对于喜剧演员来说，没有什么比在表演中听到观众的阵阵笑声更有成就感的了。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2022-autumn-69319b318c",
+      "studentParagraph": 51,
+      "answerParagraphs": [
+        45
+      ],
+      "answerQuestion": "这条运河花了数百年才建成，如今虽然已经不见往昔的繁忙景象，但依然是纵横东西的重要水路。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2022-spring-fc5f19c076",
+      "studentParagraph": 53,
+      "answerParagraphs": [
+        47
+      ],
+      "answerQuestion": "他已经几十年没有看过如此壮丽的日出了。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2022-spring-caf1add13c",
+      "studentParagraph": 55,
+      "answerParagraphs": [
+        49
+      ],
+      "answerQuestion": "正是因为贯彻顾客为本的理念，这家落寞已久的社区商场才得以重新回到大众的视线。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2020-spring-c4ec8c0577",
+      "studentParagraph": 58,
+      "answerParagraphs": [
+        51
+      ],
+      "answerQuestion": "每周三，这些大学生都会雷打不动地去孤儿院做志愿者，教孩子们剪纸和编织。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2025-autumn-ff7611ffae",
+      "studentParagraph": 63,
+      "answerParagraphs": [
+        55
+      ],
+      "answerQuestion": "水果采摘让游客身心放松，也帮助果农增加了至少三分之二的销量，一举两得。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2025-spring-1b7ad4200d",
+      "studentParagraph": 66,
+      "answerParagraphs": [
+        57
+      ],
+      "answerQuestion": "巧的是，记者的一位远房亲戚对乡村发展的丝丝脉络了如指掌。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2025-spring-f44547426d",
+      "studentParagraph": 69,
+      "answerParagraphs": [
+        59
+      ],
+      "answerQuestion": "这个夜市历经数十年风雨，既有底气坚守本色，也有活力探索新路，年轻人纷沓而至。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "两份原题均为“纷沓而至”，疑为“纷至沓来”，保留原题。"
+      ]
+    },
+    {
+      "id": "gaokao-2023-spring-1119557eb2",
+      "studentParagraph": 73,
+      "answerParagraphs": [
+        61
+      ],
+      "answerQuestion": "如果不精心安排，明天的美术馆之行将会变成走马观花。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2023-spring-cf5794f4c1",
+      "studentParagraph": 76,
+      "answerParagraphs": [
+        63
+      ],
+      "answerQuestion": "上任以来，镇长始终将了解民生、听取民意作为重中之重，利用工作之余走访了小镇上的每家每户。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2022-autumn-a3cd15dbde",
+      "studentParagraph": 77,
+      "answerParagraphs": [
+        65
+      ],
+      "answerQuestion": "切记不要苛求运动的强度和频率，细水长流方能有成效。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2021-spring-0b9e1cee0e",
+      "studentParagraph": 80,
+      "answerParagraphs": [
+        67
+      ],
+      "answerQuestion": "这条小河蜿蜒流淌，陪伴世代居住在这里的村民，见证了这个村庄的日新月异。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "参考答案 with company of 疑有搭配问题，保留原文。"
+      ]
+    },
+    {
+      "id": "gaokao-2020-autumn-87eec8fd90",
+      "studentParagraph": 83,
+      "answerParagraphs": [
+        69
+      ],
+      "answerQuestion": "面对网店的挑战，这家百年老店举措并施，化危机为转机，最终化解危机，再创辉煌。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2020-spring-5acb4d297a",
+      "studentParagraph": 87,
+      "answerParagraphs": [
+        71
+      ],
+      "answerQuestion": "这首歌在今年的艺术节上首发时，因其旋律欢快、风格诙谐而引起轰动，但只是昙花一现。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2025-autumn-c0b5b18828",
+      "studentParagraph": 92,
+      "answerParagraphs": [
+        76
+      ],
+      "answerQuestion": "他回答得吞吞吐吐，从某种意义上说，就是婉拒你的邀请。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2024-spring-e7e8d798f9",
+      "studentParagraph": 94,
+      "answerParagraphs": [
+        78
+      ],
+      "answerQuestion": "在电子邮件时代，许多人依然会因为收到纸质信件而欣喜不已。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2024-spring-68e3d47dc3",
+      "studentParagraph": 96,
+      "answerParagraphs": [
+        80
+      ],
+      "answerQuestion": "这本书介绍农历的起源，并强调其在中国古代农业发展中的重要作用。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2023-autumn-288277be8e",
+      "studentParagraph": 98,
+      "answerParagraphs": [
+        82
+      ],
+      "answerQuestion": "你注意到这个地区每个部落都有不成文的规矩吗？",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2023-spring-2cc0ed5b30",
+      "studentParagraph": 100,
+      "answerParagraphs": [
+        84
+      ],
+      "answerQuestion": "他接到通知，实验结果一时半会儿出不来。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2021-autumn-29734559e8",
+      "studentParagraph": 102,
+      "answerParagraphs": [
+        86
+      ],
+      "answerQuestion": "那位头发花白的外交官与他的老友不期而遇，脑海里浮现出那些为理想奋斗的青春岁月。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2021-autumn-e8ca52da6b",
+      "studentParagraph": 105,
+      "answerParagraphs": [
+        88
+      ],
+      "answerQuestion": "这位已故先驱者的故居是一间不起眼的木屋，现正在维修，游客有望在6月底一睹真容。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "参考答案 by the end of late June 表述疑有冗余，保留原文。"
+      ]
+    },
+    {
+      "id": "gaokao-2025-autumn-4e21378b51",
+      "studentParagraph": 110,
+      "answerParagraphs": [
+        92
+      ],
+      "answerQuestion": "无论压力多大，这位天才运动员都能稳定发挥，在各大赛事中摘金夺银，为国争光。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2025-spring-8f70ce5ab2",
+      "studentParagraph": 113,
+      "answerParagraphs": [
+        94
+      ],
+      "answerQuestion": "这个两层楼的酒店古色古香，坐落于半山腰，住店客人得以轻松登顶，并错峰参观纪念馆。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2024-autumn-2fb8e6e9a3",
+      "studentParagraph": 117,
+      "answerParagraphs": [
+        96
+      ],
+      "answerQuestion": "这个博物馆的神奇之处在于，它将乡村的变迁、时光的痕迹和童年的回忆融合在了一个固定的空间中。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2024-spring-3f40f2fece",
+      "studentParagraph": 120,
+      "answerParagraphs": [
+        98
+      ],
+      "answerQuestion": "无论音乐还是绘画，经典作品都具有跨越时空的力量。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2024-spring-d01289aaa3",
+      "studentParagraph": 122,
+      "answerParagraphs": [
+        100
+      ],
+      "answerQuestion": "新出台的政策创造了大量就业机会，吸引更多青年才俊定居该地区，为当地企业注入新活力。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2023-autumn-df6d28dcd4",
+      "studentParagraph": 126,
+      "answerParagraphs": [
+        102
+      ],
+      "answerQuestion": "这个电视连续剧的剧情是围绕一个华南地区的虚拟城市展开的，汽车企业是这个城市的骄傲。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2021-spring-38a768c1f7",
+      "studentParagraph": 129,
+      "answerParagraphs": [
+        104
+      ],
+      "answerQuestion": "遨游太空一周，载人飞船安全落地后，这一刻，原本寂静的发射中心一片欢腾。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2020-autumn-020f9ca41d",
+      "studentParagraph": 132,
+      "answerParagraphs": [
+        106
+      ],
+      "answerQuestion": "春暖花开的四月，是领略这个江南小镇美景的最佳时机。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2017-autumn-a794e56e9b",
+      "studentParagraph": 136,
+      "answerParagraphs": [
+        121
+      ],
+      "answerQuestion": "李雷宁愿受罚也不说谎。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2017-autumn-e4201086f4",
+      "studentParagraph": 138,
+      "answerParagraphs": [
+        125
+      ],
+      "answerQuestion": "在投资项目的过程中出现了一些问题。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2017-autumn-3c4ba60d7f",
+      "studentParagraph": 140,
+      "answerParagraphs": [
+        123
+      ],
+      "answerQuestion": "【在过去的三年中】他一直致力于研究信息的传播/速度和人们生活节奏之间的关系。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2017-autumn-628a84e0d4",
+      "studentParagraph": 142,
+      "answerParagraphs": [
+        113
+      ],
+      "answerQuestion": "有人声称这种减肥药丸diet/de-fatting效果显著，立竿见影，且对身体无害，但事实远非如此。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2017-spring-1a82d26f21",
+      "studentParagraph": 145,
+      "answerParagraphs": [
+        117
+      ],
+      "answerQuestion": "你不必在乎他人对你的评论。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2017-spring-14ebd23778",
+      "studentParagraph": 147,
+      "answerParagraphs": [
+        115
+      ],
+      "answerQuestion": "大量阅读书籍有助于我们的成长。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2017-spring-937e91c731",
+      "studentParagraph": 149,
+      "answerParagraphs": [
+        111
+      ],
+      "answerQuestion": "你的网站内容越实用，使用起来越方便，就越有可能成功。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "参考答案 practical 后有孤立斜线，保留原文。"
+      ]
+    },
+    {
+      "id": "gaokao-2017-spring-f3b3683dfd",
+      "studentParagraph": 151,
+      "answerParagraphs": [
+        119
+      ],
+      "answerQuestion": "正因为她按部就班地实现了每一个短期目标，才会在科学领域不断有所突破。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2018-autumn-f2bfa1d7d7",
+      "studentParagraph": 154,
+      "answerParagraphs": [
+        145
+      ],
+      "answerQuestion": "他们中的哪一个可能做过排球教练？",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2018-autumn-f30594bfbc",
+      "studentParagraph": 156,
+      "answerParagraphs": [
+        138
+      ],
+      "answerQuestion": "我看到他换上徒步鞋，走向了草坪。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2018-autumn-8e8b6fd397",
+      "studentParagraph": 158,
+      "answerParagraphs": [
+        140
+      ],
+      "answerQuestion": "妈妈把闹钟设置为六小时响一次，提醒自己给宝宝量体温。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2018-autumn-7caed2182a",
+      "studentParagraph": 160,
+      "answerParagraphs": [
+        147,
+        148
+      ],
+      "answerQuestion": "在这个村庄里，人们通常每顿饭吃8分饱，这个健康的饮食习惯最初是为了应对食物短缺的困境。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2018-spring-fd51b93fd1",
+      "studentParagraph": 164,
+      "answerParagraphs": [
+        130
+      ],
+      "answerQuestion": "少喝含糖的饮料，否则你会容易发胖。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2018-spring-75e88e338b",
+      "studentParagraph": 166,
+      "answerParagraphs": [
+        132
+      ],
+      "answerQuestion": "在法庭上，他坚持【声称】自己没犯抢劫罪。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "两份资料的中文措辞不同；保留学生版原题。答案版原题：在法庭上，他坚持【声称】自己没犯抢劫罪。"
+      ]
+    },
+    {
+      "id": "gaokao-2018-spring-6e66d43782",
+      "studentParagraph": 168,
+      "answerParagraphs": [
+        136
+      ],
+      "answerQuestion": "你是不是同意，在心情愉快的时候，总会有创意出现？",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2018-spring-8ecba4ca9b",
+      "studentParagraph": 170,
+      "answerParagraphs": [
+        142,
+        143
+      ],
+      "answerQuestion": "当谈到办公室冲突的时候，专家建议更多反思自己，更多换位思考，并及时与同事沟通。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2019-autumn-2cc08ad6cf",
+      "studentParagraph": 173,
+      "answerParagraphs": [
+        168
+      ],
+      "answerQuestion": "爷爷有一点耳背，请对他耐心一点。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "两份资料的中文措辞不同；保留学生版原题。答案版原题：爷爷有一点耳背，请对他耐心一点。"
+      ]
+    },
+    {
+      "id": "gaokao-2019-autumn-87e7c4d00f",
+      "studentParagraph": 175,
+      "answerParagraphs": [
+        170,
+        171,
+        172,
+        173
+      ],
+      "answerQuestion": "与学生时代的他相比，那位战士真是判若两人！",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "两份资料的中文措辞不同；保留学生版原题。答案版原题：与学生时代的他相比，那位战士真是判若两人！"
+      ]
+    },
+    {
+      "id": "gaokao-2019-autumn-85a777046f",
+      "studentParagraph": 177,
+      "answerParagraphs": [
+        158
+      ],
+      "answerQuestion": "随着他的体力逐渐恢复正常，那位业余自行车手的夺冠之梦不再遥不可及。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "两份资料的中文措辞不同；保留学生版原题。答案版原题：随着他的体力逐渐恢复正常，那位业余自行车手的夺冠之梦不再遥不可及。",
+        "参考答案 out ofreach 疑有拼写/空格问题，保留原文。"
+      ]
+    },
+    {
+      "id": "gaokao-2019-autumn-e529969b02",
+      "studentParagraph": 179,
+      "answerParagraphs": [
+        155,
+        156
+      ],
+      "answerQuestion": "值得一提的是，在王老师的影响下，她的同事更关注孩子的努力，而非他们的成绩。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "两份资料的中文措辞不同；保留学生版原题。答案版原题：值得一提的是，在王老师的影响下，她的同事更关注孩子的努力，而非他们的成绩。",
+        "参考答案 under Mrs. Wang influence 疑缺少所有格，保留原文。"
+      ]
+    },
+    {
+      "id": "gaokao-2019-spring-ddbb1288f8",
+      "studentParagraph": 183,
+      "answerParagraphs": [
+        163
+      ],
+      "answerQuestion": "究竟是什么激发小王学习电子工程的积极性？",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2019-spring-ef0c343b56",
+      "studentParagraph": 185,
+      "answerParagraphs": [
+        165,
+        166
+      ],
+      "answerQuestion": "网上支付方便了用户，但是牺牲了他们的隐私。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2019-spring-86937177ae",
+      "studentParagraph": 187,
+      "answerParagraphs": [
+        160,
+        161
+      ],
+      "answerQuestion": "让我的父母非常满意的是，从这个公寓的餐厅可以看见街对面的世纪公园，从起居室也可以。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2019-spring-9d762e24bd",
+      "studentParagraph": 189,
+      "answerParagraphs": [
+        150,
+        152,
+        153
+      ],
+      "answerQuestion": "博物馆疏于管理，展品积灰，门庭冷清，急亟需改善。",
+      "method": "年份、轮次、提示词及原题内容核对",
+      "notes": [
+        "两份资料的中文措辞不同；保留学生版原题。答案版原题：博物馆疏于管理，展品积灰，门庭冷清，急亟需改善。"
+      ]
+    },
+    {
+      "id": "gaokao-2026-spring-0f053fa665",
+      "studentParagraph": 193,
+      "answerParagraphs": [
+        178,
+        179,
+        180,
+        182,
+        185,
+        187,
+        188,
+        189
+      ],
+      "answerQuestion": "",
+      "method": "内容语义核对（2026春考答案未重复中文原题）",
+      "notes": [
+        "资料将 jumped to 列为可替换表达，其含义可能偏离“得出结论”，保留并待核对。"
+      ]
+    },
+    {
+      "id": "gaokao-2026-spring-bbbffcea22",
+      "studentParagraph": 196,
+      "answerParagraphs": [
+        194,
+        196,
+        197
+      ],
+      "answerQuestion": "",
+      "method": "内容语义核对（2026春考答案未重复中文原题）",
+      "notes": [
+        "资料所列 From ancient to now / From past to now 等替换表达疑不自然，保留并待核对。"
+      ]
+    },
+    {
+      "id": "gaokao-2026-spring-c7dd6f371a",
+      "studentParagraph": 199,
+      "answerParagraphs": [
+        198,
+        200,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211
+      ],
+      "answerQuestion": "",
+      "method": "内容语义核对（2026春考答案未重复中文原题）",
+      "notes": [
+        "资料的部分替换表达（如 This year’s rain、It sometimes rains and / while sometimes stops）与完整原题或语法存在疑点，照录待核对。"
+      ]
+    },
+    {
+      "id": "gaokao-2026-spring-6c69cd8715",
+      "studentParagraph": 202,
+      "answerParagraphs": [
+        212,
+        213,
+        214,
+        216,
+        218
+      ],
+      "answerQuestion": "",
+      "method": "内容语义核对（2026春考答案未重复中文原题）",
+      "notes": [
+        "资料所列 On the final court/ field/site 等替换表达需结合语境核对，保留原文。"
+      ]
+    },
+    {
+      "id": "gaokao-2026-autumn-9fee17b594",
+      "studentParagraph": 207,
+      "answerParagraphs": [
+        226
+      ],
+      "answerQuestion": "消防员在此次行动中英勇无畏，令人敬佩。",
+      "method": "原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2026-autumn-7ed1202349",
+      "studentParagraph": 210,
+      "answerParagraphs": [
+        227
+      ],
+      "answerQuestion": "趁文具店还没关门，我们去买些明天画画要用的工具吧。",
+      "method": "原题内容核对",
+      "notes": []
+    },
+    {
+      "id": "gaokao-2026-autumn-644f084d92",
+      "studentParagraph": 213,
+      "answerParagraphs": [
+        228
+      ],
+      "answerQuestion": "纵使天寒地冻，树木从不轻易放弃生长，依然默默挺立，静侯春光。",
+      "method": "原题内容核对",
+      "notes": [
+        "两份原题均为“静侯春光”，疑为“静候春光”，保留原题。"
+      ]
+    },
+    {
+      "id": "gaokao-2026-autumn-2a66cb4442",
+      "studentParagraph": 216,
+      "answerParagraphs": [
+        229
+      ],
+      "answerQuestion": "一支篮球队的配合就像一台机器的运转，每个部分各司其职，协同运作，实现共同目标。",
+      "method": "原题内容核对",
+      "notes": [
+        "参考答案 role ad works 中 ad 疑为 and，保留原文。"
+      ]
+    }
+  ]
+}
